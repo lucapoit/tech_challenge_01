@@ -1,0 +1,518 @@
+,id,title,category,price,rating,availability,image_links
+0,a22124811bfa8350,It's Only the Himalayas,travel,45.17,2,19,https://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg
+1,ce60436f52c5ee68,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,travel,49.43,4,15,https://books.toscrape.com/media/cache/fe/8a/fe8af6ceec7718986380c0fde9b3b34f.jpg
+2,f9705c362f070608,See America: A Celebration of Our National Parks & Treasured Sites,travel,48.87,3,14,https://books.toscrape.com/media/cache/c7/1a/c71a85dbf8c2dbc75cb271026618477c.jpg
+3,1809259a5a5f1d8d,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,travel,36.94,2,8,https://books.toscrape.com/media/cache/ca/30/ca30b1afe1e76ce7ba1db8176d398e53.jpg
+4,a94350ee74deaa07,Under the Tuscan Sun,travel,37.33,3,7,https://books.toscrape.com/media/cache/45/21/4521c581ba727f5c835e34860cbf53e5.jpg
+5,cc1936a9f4e93477,A Summer In Europe,travel,44.34,2,7,https://books.toscrape.com/media/cache/6c/e3/6ce3003931701c7a3fd5354917538ea9.jpg
+6,48736df57e7bec9f,The Great Railway Bazaar,travel,30.54,1,6,https://books.toscrape.com/media/cache/d5/82/d582f6b0261c2842330e893962276295.jpg
+7,9e60929f521fa280,A Year in Provence (Provence #1),travel,56.88,4,6,https://books.toscrape.com/media/cache/8b/81/8b81cd9b2c8f89a12099a80bed1c4911.jpg
+8,366a236aa1ea6f07,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),travel,23.21,1,3,https://books.toscrape.com/media/cache/26/f5/26f5d20239a45046e756c6d09611b3ea.jpg
+9,747cf7fca2ccdbd4,Neither Here nor There: Travels in Europe,travel,38.95,3,3,https://books.toscrape.com/media/cache/c9/9a/c99a7a05537cd842eb4db83d537e3a4d.jpg
+10,228ba5e7577e1d49,"1,000 Places to See Before You Die",travel,26.08,5,1,https://books.toscrape.com/media/cache/9e/10/9e106f81f65b293e488718a4f54a6a3f.jpg
+11,e00eb4fd7b871a48,Sharp Objects,mystery,47.82,4,20,https://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg
+12,19ed25f4641d5efd,"In a Dark, Dark Wood",mystery,19.63,1,18,https://books.toscrape.com/media/cache/95/84/95840dfd67c020067c99d70451147e20.jpg
+13,5ee94540d0749ea0,The Past Never Ends,mystery,56.50,4,16,https://books.toscrape.com/media/cache/9d/f2/9df248dcefeaba9eeb519a59b248f72c.jpg
+14,f733e8c19d40ec2e,A Murder in Time,mystery,16.64,1,16,https://books.toscrape.com/media/cache/cc/bd/ccbd7a62caefd5a3a2e04dd7c2ff48fe.jpg
+15,c7b5183f4d1d4efe,The Murder of Roger Ackroyd (Hercule Poirot #4),mystery,44.10,4,15,https://books.toscrape.com/media/cache/86/38/8638ba095b3b32e0abdef170e7bc4fd6.jpg
+16,3bc89353f7e3a3cc,The Last Mile (Amos Decker #2),mystery,54.21,2,14,https://books.toscrape.com/media/cache/e6/dc/e6dcc8f75214eb14edc1ce09c98f3d71.jpg
+17,0c7b9cf2b7662b65,That Darkness (Gardiner and Renner #1),mystery,13.92,1,14,https://books.toscrape.com/media/cache/23/b8/23b81994234ac127d701db1531a08e48.jpg
+18,2d1e337aaf341858,Tastes Like Fear (DI Marnie Rome #3),mystery,10.69,1,14,https://books.toscrape.com/media/cache/74/9b/749bca168778cf35fdb2441a9d6b403f.jpg
+19,4416c474713ec1f5,A Time of Torment (Charlie Parker #14),mystery,48.35,5,14,https://books.toscrape.com/media/cache/f1/37/f137a410ed7d6fcfce17d081caf97915.jpg
+20,63ee5bc46066a8a8,A Study in Scarlet (Sherlock Holmes #1),mystery,16.73,2,14,https://books.toscrape.com/media/cache/27/40/274003f2720f82844873945b87af6c19.jpg
+21,abdd91e96515a617,Poisonous (Max Revere Novels #3),mystery,26.80,3,12,https://books.toscrape.com/media/cache/8d/52/8d52227d29e03695ef755620078b7815.jpg
+22,e7fe3bf2768602cf,Murder at the 42nd Street Library (Raymond Ambler #1),mystery,54.36,4,12,https://books.toscrape.com/media/cache/19/74/19748437aac103dbdeb1918062728726.jpg
+23,c039f5aceb093537,Most Wanted,mystery,35.28,3,12,https://books.toscrape.com/media/cache/fa/b5/fab5e650b19b76c5f5d1ce3a626376b1.jpg
+24,bddc6fd036eb6279,Hide Away (Eve Duncan #20),mystery,11.84,1,12,https://books.toscrape.com/media/cache/b2/c5/b2c501b848bccd9cc375771f53c0fb6e.jpg
+25,49b24c6a41b82bd2,Boar Island (Anna Pigeon #19),mystery,59.48,3,12,https://books.toscrape.com/media/cache/91/8c/918c2c95ae90495cdb0371a22b726d82.jpg
+26,6159d8b187831770,The Widow,mystery,27.26,2,11,https://books.toscrape.com/media/cache/e4/37/e43737572b04c7ad28b35f3da29eb8dd.jpg
+27,05a61a3bd8ca4149,Playing with Fire,mystery,13.71,3,11,https://books.toscrape.com/media/cache/09/02/0902666ade8ab8183363e53c108e5069.jpg
+28,9735c969c652dd89,What Happened on Beale Street (Secrets of the South Mysteries #2),mystery,25.37,5,7,https://books.toscrape.com/media/cache/2c/68/2c6857eb1c10995c8b9e77a1804f68cd.jpg
+29,20789fb17b423c4c,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),mystery,52.30,5,7,https://books.toscrape.com/media/cache/38/a4/38a44ac4f642f4717d865c81ec594529.jpg
+30,4e980425468708da,Delivering the Truth (Quaker Midwife Mystery #1),mystery,20.89,4,7,https://books.toscrape.com/media/cache/5c/8a/5c8acde540a88aed464ab5c52bafcd83.jpg
+31,90fa61229261140a,Tipping the Velvet,historical-fiction,53.74,1,20,https://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg
+32,9beb96a2300109d7,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,historical-fiction,29.69,3,16,https://books.toscrape.com/media/cache/f9/9e/f99e760b894d10c6e5ed578618918367.jpg
+33,3a6fb983e2554023,A Flight of Arrows (The Pathfinders #2),historical-fiction,55.53,5,16,https://books.toscrape.com/media/cache/ec/65/ec651ed66822d4b68938afa645b1ece2.jpg
+34,9287e238d7c3b06e,The House by the Lake,historical-fiction,36.95,1,15,https://books.toscrape.com/media/cache/46/a2/46a2c968bfccf1979cc5576085eec6dd.jpg
+35,a40723994f715420,Mrs. Houdini,historical-fiction,30.25,5,15,https://books.toscrape.com/media/cache/b4/45/b445dbc81ca3aff1321a6bf0d0fa231d.jpg
+36,52cf2a5933ec5d8f,The Marriage of Opposites,historical-fiction,28.08,4,14,https://books.toscrape.com/media/cache/33/8e/338e196723f3fb10d5c6990fe54be61d.jpg
+37,de4b403cb629a29f,Glory over Everything: Beyond The Kitchen House,historical-fiction,45.84,3,14,https://books.toscrape.com/media/cache/06/ac/06ac98df817412ce2419c4509fa98c80.jpg
+38,9546d537fbf99eb6,"Love, Lies and Spies",historical-fiction,20.55,2,12,https://books.toscrape.com/media/cache/5c/19/5c19785278eaa6bf984ce6659847abc3.jpg
+39,63343e287971bb0c,A Paris Apartment,historical-fiction,39.01,4,12,https://books.toscrape.com/media/cache/b3/d9/b3d90aca157d5a250becc8b255a37251.jpg
+40,bade9943ee01b63f,Lilac Girls,historical-fiction,17.28,2,11,https://books.toscrape.com/media/cache/c0/80/c080a1626edf581b780420db13e7b074.jpg
+41,24933c712f0bca2f,The Constant Princess (The Tudor Court #1),historical-fiction,16.62,3,7,https://books.toscrape.com/media/cache/ed/52/ed52651826bb23d853aead2753c9befc.jpg
+42,e6635f5b0a2c78db,The Invention of Wings,historical-fiction,37.34,1,6,https://books.toscrape.com/media/cache/7a/b0/7ab00e6956f540bfe0018656d5bfe1e4.jpg
+43,2e5b4ff08a75fd02,World Without End (The Pillars of the Earth #2),historical-fiction,32.97,4,5,https://books.toscrape.com/media/cache/58/b5/58b5730dd82cbcf6560cf0ab8b56cd9f.jpg
+44,011674f4a3834b8d,The Passion of Dolssa,historical-fiction,28.32,5,4,https://books.toscrape.com/media/cache/b3/59/b35975c0df26c40964028a8ccabc9a91.jpg
+45,5eff05e59f905a49,Girl With a Pearl Earring,historical-fiction,26.77,1,4,https://books.toscrape.com/media/cache/b1/5e/b15ec9da5c7b28e2d11347dd2e8c20e5.jpg
+46,7feac4000cbc5859,Voyager (Outlander #3),historical-fiction,21.07,5,3,https://books.toscrape.com/media/cache/6e/22/6e22497cbecedef59be86d1328e4b044.jpg
+47,3c456328b04a8ee8,The Red Tent,historical-fiction,35.66,5,3,https://books.toscrape.com/media/cache/15/59/155942710c3ae4bd4ed622df9a999b99.jpg
+48,476c7972e9b41891,The Last Painting of Sara de Vos,historical-fiction,55.55,2,3,https://books.toscrape.com/media/cache/1c/e4/1ce4c2573d65ebdc3c85d9a6592d57b1.jpg
+49,4a0a276409968a73,The Guernsey Literary and Potato Peel Pie Society,historical-fiction,49.53,1,3,https://books.toscrape.com/media/cache/98/e3/98e3925e5e6a66acf2cde918fc147205.jpg
+50,41fc5dce044f16f5,Girl in the Blue Coat,historical-fiction,46.83,2,3,https://books.toscrape.com/media/cache/15/ea/15eaabd188af8916c4a37d135f7b8952.jpg
+51,3b1c02bac2a429e6,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),sequential-art,52.29,5,19,https://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg
+52,09555be379ad9253,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),sequential-art,16.28,1,16,https://books.toscrape.com/media/cache/8b/ab/8bab133ec9f8248a8d5f5ea5c09d0f56.jpg
+53,51653ef291ab7ddc,This One Summer,sequential-art,19.49,4,16,https://books.toscrape.com/media/cache/ee/43/ee4364a59d66bafb1b3264419ab3ed9e.jpg
+54,7d385d34d12e60ff,The Nameless City (The Nameless City #1),sequential-art,38.16,4,16,https://books.toscrape.com/media/cache/19/de/19deee0778c2406da04a4dd0ea09188f.jpg
+55,53a3d11bb568cc8b,"Saga, Volume 5 (Saga (Collected Editions) #5)",sequential-art,51.04,2,16,https://books.toscrape.com/media/cache/60/3c/603c8f3dd299efe67616a53e5bfb1d03.jpg
+56,c82a3e358c773c73,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",sequential-art,50.40,3,16,https://books.toscrape.com/media/cache/d5/d0/d5d015a9cf899301cce5d1a629bdd974.jpg
+57,0fa6dceead7ce47a,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",sequential-art,13.61,5,16,https://books.toscrape.com/media/cache/6c/8f/6c8ffe949fb650ba60eff25be1692881.jpg
+58,e80f8e518b300dfe,"Pop Gun War, Volume 1: Gift",sequential-art,18.97,1,16,https://books.toscrape.com/media/cache/6f/7b/6f7b3b8445b943f4ff7426360daefb88.jpg
+59,9429b4d59c537af5,Patience,sequential-art,10.16,3,16,https://books.toscrape.com/media/cache/71/0c/710cdaa148f10aac35c27bb93b4f532e.jpg
+60,889139b8e9c4cb36,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",sequential-art,15.44,4,16,https://books.toscrape.com/media/cache/0c/8a/0c8ae80b592bc1b4c555d6b29d1cfa28.jpg
+61,11809b1d323b3057,orange: The Complete Collection 1 (orange: The Complete Collection #1),sequential-art,48.41,1,16,https://books.toscrape.com/media/cache/33/0b/330bf57e3f2e70548f87d39cb956f7eb.jpg
+62,460089f796fb3f82,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",sequential-art,46.91,2,16,https://books.toscrape.com/media/cache/67/f8/67f83a06f77d0ff3b06cb8ac04839422.jpg
+63,b6ee99bcf06fc91f,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",sequential-art,45.61,3,16,https://books.toscrape.com/media/cache/1c/78/1c78cb31ededc4c662857cf65bd1619d.jpg
+64,57e5a4d515c8ce44,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),sequential-art,19.92,2,16,https://books.toscrape.com/media/cache/d6/9b/d69b7020c4210e12882ffca0428919a2.jpg
+65,8d4eefad7a2b3915,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",sequential-art,29.17,2,16,https://books.toscrape.com/media/cache/58/e2/58e2097169e92a95d973da420ce7cc98.jpg
+66,1c89ae5bb804e4de,I am a Hero Omnibus Volume 1,sequential-art,54.63,3,16,https://books.toscrape.com/media/cache/f7/4d/f74db5141becf01083abc03c078f4922.jpg
+67,f2df3bb043a8abb0,"Giant Days, Vol. 2 (Giant Days #5-8)",sequential-art,22.11,2,16,https://books.toscrape.com/media/cache/d0/6f/d06ff4e3b9daf93b18bb21f1af19b5eb.jpg
+68,09b6cc87e62c2c58,Danganronpa Volume 1,sequential-art,51.99,4,16,https://books.toscrape.com/media/cache/ce/39/ce3942d9a10b6a17805136ace7c140fa.jpg
+69,8754c83ab2a7ae71,"Codename Baboushka, Volume 1: The Conclave of Death",sequential-art,36.72,4,16,https://books.toscrape.com/media/cache/ed/a5/eda54d1bfcdd39488013f7aae1eaf659.jpg
+70,7b599c8bfcdd8d30,Camp Midnight,sequential-art,17.08,4,16,https://books.toscrape.com/media/cache/7a/67/7a671ecf69cdcd2ea9ebe85da1b5585f.jpg
+71,abbb492978ff656d,The Secret Garden,classics,15.08,4,5,https://books.toscrape.com/media/cache/f1/78/f17805e88aed31aae352ab250b2a379d.jpg
+72,93379e3a2072a01b,The Metamorphosis,classics,28.58,1,5,https://books.toscrape.com/media/cache/9b/33/9b33c3c40c8d27054a3edf96cbf6a2fb.jpg
+73,6053ddf69c967d5f,The Pilgrim's Progress,classics,50.26,2,4,https://books.toscrape.com/media/cache/91/2a/912acfe6ee354d9d9bf3c1fa517c4252.jpg
+74,6587f46697fc4443,The Hound of the Baskervilles (Sherlock Holmes #5),classics,14.82,2,4,https://books.toscrape.com/media/cache/9d/fe/9dfe2a73c6a1a1c09927c904de641ebf.jpg
+75,deda806b68b0aa11,Little Women (Little Women #1),classics,28.07,4,4,https://books.toscrape.com/media/cache/55/a9/55a942b0c092c40bdbb6a1f1be340984.jpg
+76,23310ce84d3c9f85,Gone with the Wind,classics,32.49,3,4,https://books.toscrape.com/media/cache/ac/ee/acee20cff19be38cc3efc5e9b50afae4.jpg
+77,2798974abc8a58a8,Candide,classics,58.63,3,4,https://books.toscrape.com/media/cache/e7/7d/e77d917c495e649216225bd47e006482.jpg
+78,1451b55e5e56bb89,Animal Farm,classics,57.22,3,4,https://books.toscrape.com/media/cache/73/b9/73b9d68a89e6d037f1afdc70f96bad09.jpg
+79,5a7ff9aaa3168878,Wuthering Heights,classics,17.73,3,3,https://books.toscrape.com/media/cache/d8/64/d8644073d00c000cb60643256080cc4b.jpg
+80,b9f6305a3d650e2c,The Picture of Dorian Gray,classics,29.70,2,3,https://books.toscrape.com/media/cache/67/29/67297ff3ae6cb02884c52e5250fe7c1a.jpg
+81,cad70d6ffd53912f,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),classics,26.78,4,3,https://books.toscrape.com/media/cache/55/2d/552d55d44dcc0f27e98b3e7dc3959e1a.jpg
+82,3fb69f34e178d494,Beowulf,classics,38.35,2,3,https://books.toscrape.com/media/cache/3d/8c/3d8cd7a42d3e57cb10e02f9ab76bd549.jpg
+83,cfe350b20d23b02b,And Then There Were None,classics,35.01,2,3,https://books.toscrape.com/media/cache/6f/b0/6fb0c3064656f888125ab577b6a01867.jpg
+84,32d035df92ab9080,The Story of Hong Gildong,classics,43.19,4,1,https://books.toscrape.com/media/cache/b5/5b/b55be7e5c18b62cef6ebeae404f7f643.jpg
+85,1aeca7d078d57deb,The Little Prince,classics,45.42,2,1,https://books.toscrape.com/media/cache/c0/d6/c0d67625e62981155f5e1f553bda1a94.jpg
+86,35e44170702139a4,Sense and Sensibility,classics,37.46,1,1,https://books.toscrape.com/media/cache/a8/57/a857deea83c7d4c66e2920e1cf5d8fe0.jpg
+87,39592d9d72e717c4,Of Mice and Men,classics,47.11,2,1,https://books.toscrape.com/media/cache/a0/bb/a0bb0881c8ee6f5866804cf0a437853f.jpg
+88,2e69730561ed70ad,Emma,classics,32.93,2,1,https://books.toscrape.com/media/cache/ae/98/ae98d08a6f427491dd8eda6b51af41fe.jpg
+89,cd2a2a70dd5d176d,Alice in Wonderland (Alice's Adventures in Wonderland #1),classics,55.53,1,1,https://books.toscrape.com/media/cache/99/df/99df494c230127c3d5ff53153d1f23a3.jpg
+90,6be3beb0793a53e7,Sophie's World,philosophy,15.94,5,18,https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg
+91,bd261725b99f5983,The Death of Humanity: and the Case for Life,philosophy,58.11,4,16,https://books.toscrape.com/media/cache/3f/f6/3ff6fe5d0c5ca7ab2ed8b5971e299caa.jpg
+92,f5a92cff83897d48,The Stranger,philosophy,17.44,4,15,https://books.toscrape.com/media/cache/c8/1a/c81aea97de1daaa0081d96f8564c204c.jpg
+93,d56d0710668bb39c,Proofs of God: Classical Arguments from Tertullian to Barth,philosophy,54.21,1,8,https://books.toscrape.com/media/cache/f6/cb/f6cb2300a1235a344f1c11b2be9a605d.jpg
+94,0cf57cb49272fd37,Kierkegaard: A Christian Missionary to Christians,philosophy,47.13,1,8,https://books.toscrape.com/media/cache/bf/90/bf90ad2c3cab628096db8fca010797b4.jpg
+95,6b52904b2ab91bf6,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",philosophy,29.93,5,7,https://books.toscrape.com/media/cache/ce/da/ceda6d577d0609261f997bd99872013b.jpg
+96,429b4a811bef386c,Critique of Pure Reason,philosophy,20.75,1,5,https://books.toscrape.com/media/cache/3b/28/3b28ec3663a81d36272a08e5a49644f2.jpg
+97,b0e479be03911916,"Run, Spot, Run: The Ethics of Keeping Pets",philosophy,20.02,1,2,https://books.toscrape.com/media/cache/8c/bf/8cbf4667b5798cb8195f1e126ddd6a5c.jpg
+98,5c10b64db3e4f228,The Nicomachean Ethics,philosophy,36.34,1,1,https://books.toscrape.com/media/cache/16/f4/16f4518319f7dcadc23d020279f78545.jpg
+99,4f19709e47883df5,Meditations,philosophy,25.89,2,1,https://books.toscrape.com/media/cache/90/f7/90f79652caecac36bc97bf7b769c8fc4.jpg
+100,08672cd59171d5e4,Beyond Good and Evil,philosophy,43.38,1,1,https://books.toscrape.com/media/cache/d1/7f/d17f326e3fcaf84c37d6d51e3470bcc6.jpg
+101,c2e46a2ee3b4a322,Chase Me (Paris Nights #2),romance,25.27,5,19,https://books.toscrape.com/media/cache/6c/84/6c84fcf7a53b02b6e763de7272934842.jpg
+102,00bfed9e18bb36f3,Black Dust,romance,34.53,5,19,https://books.toscrape.com/media/cache/a4/0a/a40af95beab828af1a4757ad1ee17da3.jpg
+103,2a97cffe61c3c4c7,Her Backup Boyfriend (The Sorensen Family #1),romance,33.97,1,16,https://books.toscrape.com/media/cache/41/ee/41ee38c1d15f0139a3fb17b730dc4347.jpg
+104,9e28048cea8d41f7,First and First (Five Boroughs #3),romance,15.97,4,16,https://books.toscrape.com/media/cache/01/a5/01a5285b17e7ec0e7e56294a8f8af28d.jpg
+105,7add3f8e49ec0826,Fifty Shades Darker (Fifty Shades #2),romance,21.96,1,16,https://books.toscrape.com/media/cache/51/86/51862681bebec59be61f36f937c71fce.jpg
+106,623e1a180426039b,The Wedding Dress,romance,24.12,1,15,https://books.toscrape.com/media/cache/29/3b/293bd9cd6fe1f8c82d1688aefe6cc5f7.jpg
+107,203b7f94b7d6115f,Suddenly in Love (Lake Haven #1),romance,55.99,2,15,https://books.toscrape.com/media/cache/58/bb/58bb81b052b6ad90adcd57e95da99a50.jpg
+108,ca71e72655bece85,Something More Than This,romance,16.24,4,15,https://books.toscrape.com/media/cache/b8/f9/b8f9e0169c3811f9ed145c3824208de6.jpg
+109,3a11bb962ff45b78,Doing It Over (Most Likely To #1),romance,35.61,3,15,https://books.toscrape.com/media/cache/4b/91/4b91460323973e9e140626d00474d74c.jpg
+110,c5cb9f885d8b3621,The Wedding Pact (The O'Malleys #2),romance,32.61,3,14,https://books.toscrape.com/media/cache/21/53/21539e305aa09ec40b36daa43db3f2fe.jpg
+111,0b165bd4b9f42fd5,Hold Your Breath (Search and Rescue #1),romance,28.82,1,14,https://books.toscrape.com/media/cache/3d/4d/3d4d8e92429144f6c807adc4b15b7f80.jpg
+112,df7e628bad5782b4,Dirty (Dive Bar #1),romance,40.83,4,12,https://books.toscrape.com/media/cache/77/54/77540d564fb77611a18b57f12a910b73.jpg
+113,cf62fa272b5f0fa3,Take Me Home Tonight (Rock Star Romance #3),romance,53.98,3,11,https://books.toscrape.com/media/cache/33/72/337240d247fdf020755566e4477e17ca.jpg
+114,b783ce08802cd1d1,Off the Hook (Fishing for Trouble #1),romance,47.67,3,11,https://books.toscrape.com/media/cache/bc/21/bc214639946c501cd70ff6b752439c76.jpg
+115,40c4bf520c17de54,A Gentleman's Position (Society of Gentlemen #3),romance,14.75,5,11,https://books.toscrape.com/media/cache/82/aa/82aa7770711dfc5edc1f5f69a731d08b.jpg
+116,bd087cf6a846db75,"Sit, Stay, Love",romance,20.90,3,7,https://books.toscrape.com/media/cache/48/2c/482c14200688df579ab2ed0fcbddcb86.jpg
+117,cf3b86489890b9f2,A Girl's Guide to Moving On (New Beginnings #2),romance,31.30,1,5,https://books.toscrape.com/media/cache/17/94/17940ad8d367ea5f28db57e7fc32dac9.jpg
+118,9cc207168a03470d,The Perfect Play (Play by Play #1),romance,59.99,3,4,https://books.toscrape.com/media/cache/b0/be/b0be8b72b97ba3185f7d55235d0be76f.jpg
+119,2b69d289279aabfd,Dark Lover (Black Dagger Brotherhood #1),romance,12.87,1,4,https://books.toscrape.com/media/cache/d8/bd/d8bdea8d4e7db9af8e0cb1b36db448d2.jpg
+120,aaebac5fda798b1b,Changing the Game (Play by Play #2),romance,13.38,3,4,https://books.toscrape.com/media/cache/7a/6a/7a6a89af2f591d86df6f7c65649463db.jpg
+121,fd8585283fc7d2d7,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,womens-fiction,57.36,4,15,https://books.toscrape.com/media/cache/60/e9/60e9df360fec611b15a1bbb4c28aad22.jpg
+122,077b635ff2afc578,Will You Won't You Want Me?,womens-fiction,13.86,3,12,https://books.toscrape.com/media/cache/b9/ef/b9efe934eaeb1f51ad31a971188d7bc3.jpg
+123,20dc4f1ac5d4fd9c,Keep Me Posted,womens-fiction,20.46,4,11,https://books.toscrape.com/media/cache/9c/84/9c845ad6a9d4ecf44d53ac0e3b8f54ae.jpg
+124,b5953ca1f8a0b8d7,Grey (Fifty Shades #4),womens-fiction,48.49,4,11,https://books.toscrape.com/media/cache/c8/06/c806501c08d2b2cd72f2362a3da6ab80.jpg
+125,725cd8d23d78cdca,Meternity,womens-fiction,43.58,3,7,https://books.toscrape.com/media/cache/e3/33/e33394096291284ed1f80c5b13c4e1f3.jpg
+126,31f5bbf4974d29c9,Some Women,womens-fiction,13.73,5,4,https://books.toscrape.com/media/cache/2f/71/2f710e4c53d98e47b73e4d34702a6751.jpg
+127,38199c5d7da0c0ef,Shopaholic Ties the Knot (Shopaholic #3),womens-fiction,48.39,5,4,https://books.toscrape.com/media/cache/d0/f8/d0f8f438caa5e7adc1c727da4f06ca64.jpg
+128,0812f54c93d726ce,Can You Keep a Secret?,womens-fiction,21.94,1,4,https://books.toscrape.com/media/cache/e1/24/e124fe015a3ffa6857eb35c39e89cd61.jpg
+129,8ebad30219b8679c,Twenties Girl,womens-fiction,42.80,2,3,https://books.toscrape.com/media/cache/49/ec/49ec020f1dfa44313313495b809f74f1.jpg
+130,813cff2aefa5d1f0,The Undomestic Goddess,womens-fiction,45.75,4,3,https://books.toscrape.com/media/cache/e3/e9/e3e95f631eb64252324768ce795b50d7.jpg
+131,6263c1d2997b8ce0,The Nanny Diaries (Nanny #1),womens-fiction,52.53,5,3,https://books.toscrape.com/media/cache/e3/4e/e34e69942bf1327c602ef9754d02a022.jpg
+132,a6ab0cb7106a67f2,The Devil Wears Prada (The Devil Wears Prada #1),womens-fiction,44.29,1,3,https://books.toscrape.com/media/cache/21/ac/21acb843702d1448519cc8bf0d5da728.jpg
+133,ac27ab4bcd9c492e,Something Borrowed (Darcy & Rachel #1),womens-fiction,48.96,5,3,https://books.toscrape.com/media/cache/82/ed/82ed95c8c6c3ee6171fe3b55d766a9ec.jpg
+134,3fc9d51d1c4d6ba7,Something Blue (Darcy & Rachel #2),womens-fiction,54.62,1,3,https://books.toscrape.com/media/cache/29/26/2926c885f673e84d7fc46240b1f77eb2.jpg
+135,6b32b561dab8036c,I've Got Your Number,womens-fiction,19.69,1,3,https://books.toscrape.com/media/cache/3d/40/3d407a69fe55223fb4cfec577a9a8ee2.jpg
+136,29fc016c459aeb14,The Edge of Reason (Bridget Jones #2),womens-fiction,19.18,4,1,https://books.toscrape.com/media/cache/a1/4f/a14f3bc2743e3956cb10fddaaf62a1f9.jpg
+137,a2b4b685dfa94733,Bridget Jones's Diary (Bridget Jones #1),womens-fiction,29.82,1,1,https://books.toscrape.com/media/cache/67/2f/672f2e3753cfc59c5843d23c88784326.jpg
+138,6957f44c3847a760,Soumission,fiction,50.10,1,20,https://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg
+139,b12b89017878a60d,Private Paris (Private #10),fiction,47.61,5,17,https://books.toscrape.com/media/cache/05/87/0587ab519222a61f803fa4570c325ad2.jpg
+140,8d455c7539795d2a,"We Love You, Charlie Freeman",fiction,50.27,5,16,https://books.toscrape.com/media/cache/87/a2/87a2fddd7f6b240c0351e1eb950b6716.jpg
+141,709822d0b5bcb7f4,Thirst,fiction,17.27,5,16,https://books.toscrape.com/media/cache/8c/54/8c54a50576c204b80165a13545f73028.jpg
+142,d01ac97e2b8947c2,The Murder That Never Was (Forensic Instincts #5),fiction,54.11,3,16,https://books.toscrape.com/media/cache/29/e0/29e036acd8a6e3daa787ce2bc05bdbbb.jpg
+143,b8736690cf263a3c,Tuesday Nights in 1980,fiction,21.04,2,15,https://books.toscrape.com/media/cache/a3/ad/a3ade5edecde67449329c1ebb016c049.jpg
+144,fd3a622648667296,The Vacationers,fiction,42.15,4,15,https://books.toscrape.com/media/cache/34/c9/34c988a76c3cd7c04566d3030d8e7331.jpg
+145,0651062381f0636a,The Regional Office Is Under Attack!,fiction,51.36,5,15,https://books.toscrape.com/media/cache/d4/73/d473f01f077b91ce04e345305a3fa217.jpg
+146,edb3097e71330040,Finders Keepers (Bill Hodges Trilogy #2),fiction,53.53,5,15,https://books.toscrape.com/media/cache/76/80/76804e1881b630a110794fef5aad02cf.jpg
+147,e9906e2f0d189745,The Time Keeper,fiction,27.88,5,14,https://books.toscrape.com/media/cache/37/d1/37d108ff5b19028a52ddd73dba35d543.jpg
+148,081305e6df719dff,The Testament of Mary,fiction,52.67,4,14,https://books.toscrape.com/media/cache/06/a6/06a62270c0700ae3c537cf394cf145ee.jpg
+149,a86972014275e072,The First Hostage (J.B. Collins #2),fiction,25.85,3,14,https://books.toscrape.com/media/cache/81/3e/813e1d11126330de52d9368e78d116cc.jpg
+150,2c04320e110a14a3,Take Me with You,fiction,45.21,3,14,https://books.toscrape.com/media/cache/bd/ad/bdad8933d15df7d7c6f3a16a9315048b.jpg
+151,fe44cc816576c652,Still Life with Bread Crumbs,fiction,26.41,3,14,https://books.toscrape.com/media/cache/a3/eb/a3ebe1ca5df0d3ff3e3d2b8fb8b2a551.jpg
+152,830fb3967c74866d,Shtum,fiction,55.84,4,14,https://books.toscrape.com/media/cache/63/62/63623a0b014b1f26e49aa61786e6e708.jpg
+153,727bf2b86b19ad88,My Name Is Lucy Barton,fiction,41.56,1,14,https://books.toscrape.com/media/cache/28/db/28db43984c765a1d02fd3495f5c52eb6.jpg
+154,cc82685d9f49bc2c,My Mrs. Brown,fiction,24.48,3,14,https://books.toscrape.com/media/cache/2d/a3/2da3464fa2010bebedfba9eca77e42be.jpg
+155,caa2e5b3fb1b2d4c,Mr. Mercedes (Bill Hodges Trilogy #1),fiction,28.90,1,14,https://books.toscrape.com/media/cache/65/7f/657f9a3b7c0579c7fa499dddddd59422.jpg
+156,aeff7b87a8e83ebb,I Am Pilgrim (Pilgrim #1),fiction,10.60,4,14,https://books.toscrape.com/media/cache/8d/a3/8da36f821f35b795a3a420c84ca9737e.jpg
+157,9eaf58b03a2779cc,Eligible (The Austen Project #4),fiction,27.09,3,14,https://books.toscrape.com/media/cache/0a/9a/0a9a0b211bee87b544bd97a8320a0b73.jpg
+158,9528d0948525bf5f,Birdsong: A Story in Pictures,childrens,54.64,3,19,https://books.toscrape.com/media/cache/af/2f/af2fe2419ea136f2cd567aa92082c3ae.jpg
+159,9f6568e9c95f60b0,The Bear and the Piano,childrens,36.89,1,18,https://books.toscrape.com/media/cache/d0/87/d0876dcd1a6530a4cb54903aad7a3e28.jpg
+160,b5ea0b5dabed25a8,The Secret of Dreadwillow Carse,childrens,56.13,1,16,https://books.toscrape.com/media/cache/7b/fd/7bfde4a3d6793f13e9a2d8851a398847.jpg
+161,37c0cb19713d8dda,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,childrens,58.08,4,15,https://books.toscrape.com/media/cache/49/0e/490e049133ee9f398e6a70f25c12e308.jpg
+162,4aa03792b50f0b22,Little Red,childrens,13.47,3,15,https://books.toscrape.com/media/cache/63/6b/636b836f5c3d67b9cda1948f5ca08694.jpg
+163,6a31307a81e8f3a8,Walt Disney's Alice in Wonderland,childrens,12.96,5,14,https://books.toscrape.com/media/cache/0f/65/0f65a1f2a3705c67b3d2a787ab3e8b99.jpg
+164,1d6443ffba9dfd80,Twenty Yawns,childrens,22.08,2,14,https://books.toscrape.com/media/cache/40/d7/40d7f9433c2f23370659c925a45fdcad.jpg
+165,a6454e329f872b78,Rain Fish,childrens,23.57,3,14,https://books.toscrape.com/media/cache/ea/1f/ea1f22fa3179f3f84fbadd24fe89a1fd.jpg
+166,e34efcc824685332,Once Was a Time,childrens,18.28,2,14,https://books.toscrape.com/media/cache/e6/5e/e65e45701ce6d2da8c5cf31d6208ff02.jpg
+167,5b43cae640f2338a,Luis Paints the World,childrens,53.95,3,14,https://books.toscrape.com/media/cache/34/1e/341e9af2106811a4ca8e56ce92762580.jpg
+168,913e7109cec0cb4c,Nap-a-Roo,childrens,25.08,1,9,https://books.toscrape.com/media/cache/b9/43/b9437eda691f483d2174a1b94c8c9d06.jpg
+169,0ff9d10864db8364,The Whale,childrens,35.96,4,7,https://books.toscrape.com/media/cache/6c/df/6cdf7a3ee6cfd5ecbcfd37bd7a5c42e3.jpg
+170,9639e89d20228e6e,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",childrens,52.87,3,7,https://books.toscrape.com/media/cache/7b/b9/7bb9386b43f2aeaa6eaf042df1b4e96f.jpg
+171,31c56c4d0fe19340,Raymie Nightingale,childrens,34.41,2,7,https://books.toscrape.com/media/cache/95/6b/956b5a8927463f4ea0774e2469e27ce5.jpg
+172,68008abf6409dfde,Playing from the Heart,childrens,32.38,1,7,https://books.toscrape.com/media/cache/b6/ba/b6ba2393c312701f1471db91eb73284d.jpg
+173,81c68492ccd72941,Maybe Something Beautiful: How Art Transformed a Neighborhood,childrens,22.54,1,5,https://books.toscrape.com/media/cache/89/9a/899a07816ced14262169345493bbbe51.jpg
+174,75fed6a47f69859d,The Wild Robot,childrens,56.07,3,3,https://books.toscrape.com/media/cache/42/48/424876ee529de5b557ebd69286c87343.jpg
+175,3d15714d4d3d15dd,The Thing About Jellyfish,childrens,48.77,1,3,https://books.toscrape.com/media/cache/ef/d3/efd3fd5390be3a440e28b03b5bb0fd95.jpg
+176,cf2f27fdf94ba20e,The Lonely Ones,childrens,43.59,5,3,https://books.toscrape.com/media/cache/ff/f6/fff64acb3c65cbea2ac9209c2a57af17.jpg
+177,b22362b434e8ee62,The Day the Crayons Came Home (Crayons),childrens,26.33,5,3,https://books.toscrape.com/media/cache/34/b2/34b2631bafd148bcd8dcd850a4b75971.jpg
+178,fce19f9b4a943f22,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",religion,37.97,2,16,https://books.toscrape.com/media/cache/a7/9c/a79cac7aec3816fb754c1aedd2e82986.jpg
+179,796c87ddbbaaf8c5,You Are What You Love: The Spiritual Power of Habit,religion,21.87,4,15,https://books.toscrape.com/media/cache/52/9b/529bf0d806ae2ab02bf23da4326b24c3.jpg
+180,eec424a84c9e4c68,God: The Most Unpleasant Character in All Fiction,religion,30.03,5,14,https://books.toscrape.com/media/cache/41/d8/41d8915a712c2a56f1c5182c11445551.jpg
+181,3f25a2fedae191cc,The Book of Mormon,religion,24.57,3,9,https://books.toscrape.com/media/cache/d7/c8/d7c885771d5e843cc2db6b0e5183c0c5.jpg
+182,d12ca4020c2f602e,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",religion,27.62,1,4,https://books.toscrape.com/media/cache/fd/99/fd996fdccb07aa8759f1388a0dea343a.jpg
+183,f3a0b8c835129558,The Bhagavad Gita,religion,57.49,3,1,https://books.toscrape.com/media/cache/13/27/13270087ac5cba3e999166a64991187a.jpg
+184,a812f6969ddf3e39,Choosing Our Religion: The Spiritual Lives of America's Nones,religion,28.42,4,1,https://books.toscrape.com/media/cache/e9/8a/e98a7adb82052fb13418a43291b8f0d4.jpg
+185,4c28def39d850cdf,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,nonfiction,40.30,5,18,https://books.toscrape.com/media/cache/7b/d9/7bd93db091d736d0c6ff9d578e3ba3d7.jpg
+186,3c039985229453bf,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,nonfiction,31.05,3,18,https://books.toscrape.com/media/cache/7c/10/7c10101fe1759c5a17ba57e4bef9e764.jpg
+187,c8f7f0cb1abb9cac,Reasons to Stay Alive,nonfiction,26.41,2,17,https://books.toscrape.com/media/cache/f5/3c/f53c7d21723c860cfbca2b539bc55b8f.jpg
+188,c27f6e1f185b0383,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,nonfiction,23.11,5,17,https://books.toscrape.com/media/cache/71/45/71451e3bba61a8d888a4a2c6526a4bcf.jpg
+189,d170b5a0da46380e,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",nonfiction,44.18,4,16,https://books.toscrape.com/media/cache/88/a4/88a4b5f7236b8a36ba972be5ebe4f252.jpg
+190,7858914fad68493c,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,nonfiction,31.12,3,16,https://books.toscrape.com/media/cache/f4/21/f4210912ca58ef35f8ad120fe3dfed38.jpg
+191,0da9aa9d24677fc0,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,nonfiction,16.77,3,16,https://books.toscrape.com/media/cache/26/65/2665876e19a6c92130f02cfda3bd3846.jpg
+192,acd86a5426e21ca0,The Gutsy Girl: Escapades for Your Life of Epic Adventure,nonfiction,37.13,1,16,https://books.toscrape.com/media/cache/73/cb/73cb1236d96f455d712516fffeae2304.jpg
+193,a30b270e25489e5c,The Electric Pencil: Drawings from Inside State Hospital No. 3,nonfiction,56.06,1,16,https://books.toscrape.com/media/cache/b1/0f/b10faf0dee8994865437ffc79682dc2f.jpg
+194,87b0615b6e1f4d7b,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,nonfiction,41.83,4,16,https://books.toscrape.com/media/cache/17/19/1719475c51206a410a90fe5f3708df4c.jpg
+195,d7310206583a54b6,Reskilling America: Learning to Labor in the Twenty-First Century,nonfiction,19.83,2,16,https://books.toscrape.com/media/cache/2c/d2/2cd2b814b8a8cd3a49895cbd13a8b1f4.jpg
+196,b136b1b180ca753a,In the Country We Love: My Family Divided,nonfiction,22.00,4,16,https://books.toscrape.com/media/cache/11/08/1108a8d9ebccd9cd474012121c32a7f5.jpg
+197,311c0dd0e354a33e,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,nonfiction,54.35,2,16,https://books.toscrape.com/media/cache/15/97/15972684c6f44f1be5e751d2e067cc16.jpg
+198,bee3672891cca906,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,nonfiction,29.14,5,16,https://books.toscrape.com/media/cache/c5/f2/c5f2361aab546bc7f851cf93aec94ca3.jpg
+199,38d45839cb1c83c1,Algorithms to Live By: The Computer Science of Human Decisions,nonfiction,30.81,1,16,https://books.toscrape.com/media/cache/28/ea/28ea530a8b7955e422df64beaed7871a.jpg
+200,8ec14b1576cb7cb5,The Power of Now: A Guide to Spiritual Enlightenment,nonfiction,43.54,2,15,https://books.toscrape.com/media/cache/13/2a/132a17f55f0048a2f2df748c9f5ce4e4.jpg
+201,209adad1015af86f,The Omnivore's Dilemma: A Natural History of Four Meals,nonfiction,38.21,2,15,https://books.toscrape.com/media/cache/3d/9d/3d9d46815a4be5e5e6f5e641d8268961.jpg
+202,42d0d7c92b75fc1c,The Genius of Birds,nonfiction,17.24,1,15,https://books.toscrape.com/media/cache/2e/52/2e52982210cbc8dffe414cab72b52e38.jpg
+203,dd047728de72ad62,The Artist's Way: A Spiritual Path to Higher Creativity,nonfiction,38.49,5,15,https://books.toscrape.com/media/cache/3b/41/3b414b6d0340a0cbbd05be0942ddaada.jpg
+204,1b33663ad7b95fd8,So You've Been Publicly Shamed,nonfiction,12.23,2,15,https://books.toscrape.com/media/cache/9d/15/9d150a1d5832bb9e3b82bbc1541912d6.jpg
+205,a34ba96d4081e6a4,Rip it Up and Start Again,music,35.02,5,19,https://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg
+206,deda3e61b9514b83,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",music,57.25,3,19,https://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg
+207,327f68a59745c102,How Music Works,music,37.32,2,19,https://books.toscrape.com/media/cache/1d/40/1d4087ff0a63f09fae9cd8433d21c2c4.jpg
+208,adb5f51c2e2ab13f,Love Is a Mix Tape (Music #1),music,18.03,1,14,https://books.toscrape.com/media/cache/b2/43/b2430e3958014d962042a14a912151ac.jpg
+209,4a823d80aa30dbb0,Please Kill Me: The Uncensored Oral History of Punk,music,31.19,4,8,https://books.toscrape.com/media/cache/8e/bb/8ebbba84c204b011527a8f4bd082b03f.jpg
+210,39eefec3a8498dde,Kill 'Em and Leave: Searching for James Brown and the American Soul,music,45.05,5,8,https://books.toscrape.com/media/cache/d4/8e/d48ee3fe30d6d9b9cc550b76dae5984a.jpg
+211,4781b6bfd6f7a2c5,"Chronicles, Vol. 1",music,52.60,2,7,https://books.toscrape.com/media/cache/df/bd/dfbd53a5c4bcb1bf676bf2a86335adbb.jpg
+212,bc209a900101f28d,This Is Your Brain on Music: The Science of a Human Obsession,music,38.40,1,5,https://books.toscrape.com/media/cache/d8/d3/d8d3a16113069ccde25da34483a583fb.jpg
+213,2ba5ccc84d35006c,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",music,12.36,3,4,https://books.toscrape.com/media/cache/b5/94/b59425287ce6b186715fa7b01054c2bf.jpg
+214,3a95f5a2df4ff921,No One Here Gets Out Alive,music,20.02,5,4,https://books.toscrape.com/media/cache/8e/9b/8e9be254974e64a8a3d365a1571e3ec2.jpg
+215,637e5a45062aa548,Life,music,31.58,5,2,https://books.toscrape.com/media/cache/9b/61/9b6155b8013ed9e05ef8a85b4117165b.jpg
+216,a1985630339f4b3d,Old Records Never Die: One Man's Quest for His Vinyl and His Past,music,55.66,2,1,https://books.toscrape.com/media/cache/aa/55/aa55bbf7037a0e19ae69485adcc11903.jpg
+217,e564c3f1a93ccf2e,Forever Rockers (The Rocker #12),music,28.80,3,1,https://books.toscrape.com/media/cache/a2/fc/a2fc91793502f5c10b5826ad606de435.jpg
+218,e72a5dfc7e9267b2,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",default,17.93,3,19,https://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg
+219,e10e1e165dc8be4a,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,default,22.60,4,19,https://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg
+220,0312262ecafa5a40,"Starving Hearts (Triangular Trade Trilogy, #1)",default,13.99,2,19,https://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg
+221,c7d160c2c0de586f,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,default,22.50,3,19,https://books.toscrape.com/media/cache/a3/2a/a32ab3b8c024c6c2b274a86b185e7585.jpg
+222,904208d6aa64b655,Aladdin and His Wonderful Lamp,default,53.13,3,19,https://books.toscrape.com/media/cache/a8/3c/a83c460fab82f35a37c0846729485547.jpg
+223,668fe56b17cfcd4f,Penny Maybe,default,33.29,3,18,https://books.toscrape.com/media/cache/b1/4b/b14be641ab97a330891455a769d52fd3.jpg
+224,094b269567e1c300,Maude (1883-1993):She Grew Up with the country,default,18.02,2,18,https://books.toscrape.com/media/cache/65/bf/65bfa3acc93b0e558a1c3de1b1164742.jpg
+225,8c9e6bf2467d740d,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",default,20.59,5,16,https://books.toscrape.com/media/cache/a5/b8/a5b8d2d5165a06fc762e8eaf8b04f98f.jpg
+226,e6af5bf1163c1151,Soul Reader,default,39.58,2,16,https://books.toscrape.com/media/cache/cc/5e/cc5e82c2205da748c6c19fbc1876586b.jpg
+227,74baabfc8fd84b38,Bossypants,default,49.46,2,16,https://books.toscrape.com/media/cache/94/34/943490007d42c0bc066efc899dafa472.jpg
+228,70ed59f194b3c556,A World of Flavor: Your Gluten Free Passport,default,42.95,1,16,https://books.toscrape.com/media/cache/0a/6a/0a6a53a8d37584a7906d2d5a0032f9c1.jpg
+229,8a380641491d43ed,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",default,56.76,5,16,https://books.toscrape.com/media/cache/09/6d/096df83de35d408278fdc9108d930b5f.jpg
+230,d7d6d50c1e3d0b81,Tracing Numbers on a Train,default,41.60,3,15,https://books.toscrape.com/media/cache/0a/05/0a0514153dac092aac76b097b495f908.jpg
+231,bc2a85fd35fdc7bd,Thirteen Reasons Why,default,52.72,1,15,https://books.toscrape.com/media/cache/6d/7b/6d7b69b4edcdf5b6b075d6fa53bf74bc.jpg
+232,961f18db4f138211,The Secret (The Secret #1),default,27.37,4,15,https://books.toscrape.com/media/cache/d3/70/d37038f81b8ad0342346951271c31e58.jpg
+233,e98a4efa85070c2f,The Psychopath Test: A Journey Through the Madness Industry,default,36.00,2,15,https://books.toscrape.com/media/cache/dd/63/dd637b4e7cb403932e6a29397d877e4e.jpg
+234,eac1a180047ad54e,The Kite Runner,default,41.82,4,15,https://books.toscrape.com/media/cache/65/1e/651e956a041bf4b91bfba1374f0f91e7.jpg
+235,e956d67c9bcc5809,The Girl on the Train,default,55.02,2,15,https://books.toscrape.com/media/cache/19/ed/19ed2156391eebbcd757a0d9f6d5860c.jpg
+236,d6670dfe3e7b42bd,The Emerald Mystery,default,23.15,2,15,https://books.toscrape.com/media/cache/bc/1f/bc1f79af87032748b75d12079f51c031.jpg
+237,efc3768127714ec3,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,default,32.00,3,15,https://books.toscrape.com/media/cache/39/c7/39c7bebcde5d9643ede71ac8ee87ee69.jpg
+238,e30f54cea9b38190,Mesaerion: The Best Science Fiction Stories 1800-1849,science-fiction,37.59,1,19,https://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg
+239,18ad3ed896c7ce05,Join,science-fiction,35.67,5,16,https://books.toscrape.com/media/cache/df/64/df642e483f7ae23de6888c73f05e2014.jpg
+240,9270575728a13a61,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",science-fiction,43.30,4,15,https://books.toscrape.com/media/cache/02/7a/027a1f131d94c38f9e785f5d85a109c7.jpg
+241,790ef197c8f236f5,The Project,science-fiction,10.65,1,15,https://books.toscrape.com/media/cache/4c/57/4c57c192057269132623f9c6b3f69559.jpg
+242,2a70769cdc6eb8b8,Soft Apocalypse,science-fiction,26.12,2,15,https://books.toscrape.com/media/cache/61/ca/61ca5ab6bc514b9527af9f805fa03c31.jpg
+243,f435aa99d864077d,Sleeping Giants (Themis Files #1),science-fiction,48.74,1,11,https://books.toscrape.com/media/cache/ac/a5/aca5de2e61ca2754de496a75dea25f91.jpg
+244,2c34f9432069b52b,Arena,science-fiction,21.36,4,11,https://books.toscrape.com/media/cache/01/c5/01c50c5f341b8f1d030e9dffba5e5498.jpg
+245,3fc124f59f3068e4,Foundation (Foundation (Publication Order) #1),science-fiction,32.42,1,5,https://books.toscrape.com/media/cache/da/a0/daa08c54a927c27494ea5bb90af79c60.jpg
+246,0e92ccf1bd39e68f,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),science-fiction,10.92,1,3,https://books.toscrape.com/media/cache/aa/8f/aa8fc991d84aca12ed94a0a2fa1099e5.jpg
+247,2ef5dc7e278e562a,Ready Player One,science-fiction,19.07,4,3,https://books.toscrape.com/media/cache/b9/af/b9afd75c09ff7bf82c9a158a34cb993d.jpg
+248,4b3f4f151c99f472,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",science-fiction,33.26,2,3,https://books.toscrape.com/media/cache/54/ca/54cac05a3026d35e713133a1fe49f6c8.jpg
+249,36d5884d44484277,Dune (Dune #1),science-fiction,54.86,1,3,https://books.toscrape.com/media/cache/63/a9/63a9a4e0c8e3c6ee2075a766b873cd31.jpg
+250,98330e431e56a9ea,Do Androids Dream of Electric Sheep? (Blade Runner #1),science-fiction,51.48,1,3,https://books.toscrape.com/media/cache/c7/a3/c7a3d04df9cbc857b149cd76d32e3030.jpg
+251,460f97a346b44bac,Three Wishes (River of Time: California #1),science-fiction,44.18,2,1,https://books.toscrape.com/media/cache/48/e6/48e697e9c8bba8ca04a3064551cda630.jpg
+252,16c71736dae78764,The Last Girl (The Dominion Trilogy #1),science-fiction,36.26,2,1,https://books.toscrape.com/media/cache/2a/88/2a88181c495875c02f87c2e6010b046d.jpg
+253,6717a70913b3db79,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),science-fiction,34.96,4,1,https://books.toscrape.com/media/cache/13/8a/138a09170e0431cce98921b857a6eeb5.jpg
+254,08decd9664e5d56e,The Book of Basketball: The NBA According to The Sports Guy,sports-and-games,44.84,5,3,https://books.toscrape.com/media/cache/73/bb/73bbe0a70806f8a732b9a7a7a343c5ec.jpg
+255,a9aa3ed5b316470b,"Friday Night Lights: A Town, a Team, and a Dream",sports-and-games,51.22,3,3,https://books.toscrape.com/media/cache/89/e8/89e87f1e98993377949855563aa1f982.jpg
+256,ce42e3de94226b2b,Sugar Rush (Offensive Line #2),sports-and-games,24.42,1,2,https://books.toscrape.com/media/cache/10/65/106598cd8f3437c26a92cbda0a5a08bb.jpg
+257,132adf7335bb384a,Settling the Score (The Summer Games #1),sports-and-games,44.91,2,1,https://books.toscrape.com/media/cache/95/c4/95c41c1765b517d6240bd674a02676b1.jpg
+258,3455b45888fb5053,Icing (Aces Hockey #2),sports-and-games,40.44,4,1,https://books.toscrape.com/media/cache/bf/31/bf31c4b40f6b2622330155fb9113a3bb.jpg
+259,4eed62cf5f8d8edf,The Torch Is Passed: A Harding Family Story,add-a-comment,19.09,1,16,https://books.toscrape.com/media/cache/c7/26/c7260547c468dbe78af92cf3927c2a1c.jpg
+260,31075275518532d7,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",add-a-comment,23.89,4,16,https://books.toscrape.com/media/cache/c9/eb/c9eb6ecf45abf796df0044600db65e55.jpg
+261,80cfab6bcff3a244,The Art Forger,add-a-comment,40.76,3,16,https://books.toscrape.com/media/cache/f5/3b/f53bc7b18914c97de7c23967293be119.jpg
+262,b757c0c361e689ce,On a Midnight Clear,add-a-comment,14.07,3,16,https://books.toscrape.com/media/cache/75/9d/759d9276739200e2cb8101a36449ba20.jpg
+263,228f74b74f3a08ae,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),add-a-comment,53.90,2,16,https://books.toscrape.com/media/cache/6d/80/6d80608ef81001ad068df06fae44b7f8.jpg
+264,0c27e6c3744fc14b,"Shobu Samurai, Project Aryoku (#3)",add-a-comment,29.06,3,15,https://books.toscrape.com/media/cache/f3/7f/f37f3173a97baeac6b6421c54a6df7b5.jpg
+265,caf4fe9311f1dc59,Modern Romance,add-a-comment,28.26,5,15,https://books.toscrape.com/media/cache/78/cb/78cb28a3e8804131e8e0c3f7b8deb2fc.jpg
+266,6875c5657661b2fb,The White Queen (The Cousins' War #1),add-a-comment,25.91,5,14,https://books.toscrape.com/media/cache/11/40/11400b5532ad710359584a68db50f33c.jpg
+267,e88fb1c9397cfb27,The Song of Achilles,add-a-comment,37.40,5,14,https://books.toscrape.com/media/cache/4e/56/4e56783b21a3a5c73e32e59241a351ac.jpg
+268,f72f61ad6a5f12ed,The Immortal Life of Henrietta Lacks,add-a-comment,40.67,2,14,https://books.toscrape.com/media/cache/92/4d/924d855a0ad5774410b0bb7c71afa788.jpg
+269,3d76bc83c6b644c9,The Dovekeepers,add-a-comment,48.78,1,14,https://books.toscrape.com/media/cache/24/86/248641d1d03b4dbfe3a7db4e20552973.jpg
+270,47d47155e89c8be7,More Than Music (Chasing the Dream #1),add-a-comment,37.61,2,14,https://books.toscrape.com/media/cache/e7/00/e7000cd6975d8932b9178de9386b944d.jpg
+271,33a3e0e3ffde0dcd,Code Name Verity (Code Name Verity #1),add-a-comment,22.13,4,14,https://books.toscrape.com/media/cache/65/9a/659ada7d88e3bda8db70f7e5312a39e2.jpg
+272,bfbb54bc8cdeed2b,Cell,add-a-comment,20.29,4,14,https://books.toscrape.com/media/cache/03/da/03da11f81eda5e742df8a39e90c21c70.jpg
+273,1fbb5f786e53a0ce,Angels Walking (Angels Walking #1),add-a-comment,34.20,2,14,https://books.toscrape.com/media/cache/ba/d9/bad95369105e8e403bf1f2b9288c5e41.jpg
+274,c1379d3744f1dd2c,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",add-a-comment,56.48,2,14,https://books.toscrape.com/media/cache/07/5f/075fff6094c0805f9f6b9e12561aeb87.jpg
+275,1ad06aed9349af46,A People's History of the United States,add-a-comment,40.79,2,14,https://books.toscrape.com/media/cache/bd/93/bd930adc47ee0dc240f8134f70f431ad.jpg
+276,01a177623cce9596,A Brush of Wings (Angels Walking #3),add-a-comment,55.51,1,14,https://books.toscrape.com/media/cache/19/11/1911d173c8e812518900af9aa16d9e46.jpg
+277,44d97b6707dae3f0,Rook,add-a-comment,37.86,4,13,https://books.toscrape.com/media/cache/64/ab/64ab238bea10c4f25fa5bc9129a35370.jpg
+278,14e44163678e24dc,The Midnight Watch: A Novel of the Titanic and the Californian,add-a-comment,26.20,1,12,https://books.toscrape.com/media/cache/d8/63/d8630e50f24c22765c9591a9297ff2e1.jpg
+279,7ae099f3898e0209,Unicorn Tracks,fantasy,18.78,3,16,https://books.toscrape.com/media/cache/9b/09/9b0935dc936c92900c2dc5d2114da72f.jpg
+280,c849f0b2f5d6a742,"Saga, Volume 6 (Saga (Collected Editions) #6)",fantasy,25.02,3,16,https://books.toscrape.com/media/cache/4a/99/4a996ae54711cea37e370428b54f8b19.jpg
+281,0e691eda369f4e09,Princess Between Worlds (Wide-Awake Princess #5),fantasy,13.34,5,16,https://books.toscrape.com/media/cache/db/01/db01b38d3200a5faff4ead42791416e4.jpg
+282,fa9610a50a1bf149,Masks and Shadows,fantasy,56.40,2,16,https://books.toscrape.com/media/cache/05/c4/05c43fe821ae19169c7baa8a54c7e869.jpg
+283,7267864328ae8b9d,Crown of Midnight (Throne of Glass #2),fantasy,43.29,3,16,https://books.toscrape.com/media/cache/b7/7d/b77d5e56daa3c22822abf1b8affbaef9.jpg
+284,6d5300b2d8f37e07,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",fantasy,28.09,2,16,https://books.toscrape.com/media/cache/9f/25/9f25ffe4229a32d1368b3dfe248c3343.jpg
+285,01d2001ac1e6f8a3,A Court of Thorns and Roses (A Court of Thorns and Roses #1),fantasy,52.37,1,16,https://books.toscrape.com/media/cache/0a/78/0a78f89fc2dc78b700b494c3510e8920.jpg
+286,590a9cccf7db9f7d,Throne of Glass (Throne of Glass #1),fantasy,35.07,3,15,https://books.toscrape.com/media/cache/4e/8d/4e8d87d1cb5e876ddb50599a1d1b656e.jpg
+287,2dbb7ec08cdd7f3c,The Glittering Court (The Glittering Court #1),fantasy,44.28,1,15,https://books.toscrape.com/media/cache/2f/21/2f21c9ffd0962092ce337ecd1b338f5b.jpg
+288,4ce91d31c1e57c33,Hollow City (Miss Peregrine’s Peculiar Children #2),fantasy,42.98,1,15,https://books.toscrape.com/media/cache/4c/fd/4cfd83a011f60d38b140642a441ce01a.jpg
+289,1528279aec1f3dce,The Star-Touched Queen,fantasy,46.02,5,14,https://books.toscrape.com/media/cache/ac/1a/ac1a0546d9cdf6cd82ab7712a6c418df.jpg
+290,992974ba6a0536ea,The Hidden Oracle (The Trials of Apollo #1),fantasy,52.26,2,14,https://books.toscrape.com/media/cache/7c/55/7c550a26f03e12343d0c6b4474b3eb1e.jpg
+291,dc6f688b82e42a5b,The Bane Chronicles (The Bane Chronicles #1-11),fantasy,44.73,4,14,https://books.toscrape.com/media/cache/e9/fe/e9fed5b725a6badd26ef93175fdc248b.jpg
+292,2b52334fab158861,Island of Dragons (Unwanteds #7),fantasy,29.65,1,14,https://books.toscrape.com/media/cache/0f/65/0f6563cce3cc893cde20b088f6fd4107.jpg
+293,3c6fe637a0180b01,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),fantasy,37.51,5,14,https://books.toscrape.com/media/cache/b7/d5/b7d558f31dc9803aeb6c76009fdea5bc.jpg
+294,966ebb738e0f9d9b,City of Glass (The Mortal Instruments #3),fantasy,56.02,4,14,https://books.toscrape.com/media/cache/10/66/106624e3f3bf865390255be16dfb71d8.jpg
+295,2f0213137a80d485,Searching for Meaning in Gailana,fantasy,38.73,1,13,https://books.toscrape.com/media/cache/9e/b4/9eb4396139c421fc9f832011c68adb2c.jpg
+296,4a7a25be293ad678,The Star-Touched Queen,fantasy,32.30,5,12,https://books.toscrape.com/media/cache/dc/57/dc57f908a0a2e130a5c065893a9005dd.jpg
+297,63d5f1651880dcea,A Shard of Ice (The Black Symphony Saga #1),fantasy,56.63,3,9,https://books.toscrape.com/media/cache/9d/9b/9d9bf1a3155fb3736d2fe12799dcca95.jpg
+298,4c82371b8cd02d4d,King's Folly (The Kinsman Chronicles #1),fantasy,39.61,5,7,https://books.toscrape.com/media/cache/fc/17/fc17b4149d87d9ee714dde082ede0ee9.jpg
+299,acddfeab2a407640,Without Borders (Wanderlove #1),new-adult,45.07,2,16,https://books.toscrape.com/media/cache/de/26/de269ee688d4dc51846567f3942600ce.jpg
+300,99ff4cc6491e8f5c,The Mistake (Off-Campus #2),new-adult,43.29,3,15,https://books.toscrape.com/media/cache/95/49/9549db6862283a388659611bda63b97b.jpg
+301,08db62f24627e71f,The Matchmaker's Playbook (Wingmen Inc. #1),new-adult,55.85,1,15,https://books.toscrape.com/media/cache/e9/e3/e9e3736effeb4982324dd0e4e64b2e81.jpg
+302,6e473eff459e809f,The Hook Up (Game On #1),new-adult,36.29,5,1,https://books.toscrape.com/media/cache/90/de/90de87ce300bcbbfcdb9ad77fc9a2e5f.jpg
+303,c068c013d6921fea,Shameless,new-adult,58.35,3,1,https://books.toscrape.com/media/cache/e2/52/e252988534e955a047c562376b8b95c0.jpg
+304,b6f1cfadc4dd79d4,Off Sides (Off #1),new-adult,39.45,5,1,https://books.toscrape.com/media/cache/4a/58/4a58f6feb21b7194911eddb020766583.jpg
+305,f77dbf2323deb740,The Requiem Red,young-adult,22.65,1,19,https://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg
+306,ce6396b0f23f6ecc,Set Me Free,young-adult,17.46,5,19,https://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg
+307,cedf82b5086e4691,The Natural History of Us (The Fine Art of Pretending #2),young-adult,45.22,3,16,https://books.toscrape.com/media/cache/da/b8/dab87c14168f3ce18530447ec6437361.jpg
+308,3c346ab1e76ae1f6,Obsidian (Lux #1),young-adult,14.86,2,16,https://books.toscrape.com/media/cache/88/3f/883fb0f2304efca8724c629f03a4b82a.jpg
+309,5ceb951f629700a2,Burning,young-adult,28.81,3,16,https://books.toscrape.com/media/cache/9a/2c/9a2c2936fa9bd422be96805924e1411a.jpg
+310,842790dfaa937484,A Fierce and Subtle Poison,young-adult,28.13,4,16,https://books.toscrape.com/media/cache/ac/b6/acb65d6d11263ba98b0191b544f6c728.jpg
+311,1c929cfd16b71907,Scarlett Epstein Hates It Here,young-adult,43.55,5,15,https://books.toscrape.com/media/cache/7e/ba/7eba21a2ecaa4651e44f04a7cd808520.jpg
+312,50b8f80311b31ede,"Nightingale, Sing",young-adult,38.28,1,15,https://books.toscrape.com/media/cache/97/e6/97e65c8381cc80ba1107c3ce81c4878d.jpg
+313,ba54932df84e8cea,Library of Souls (Miss Peregrine’s Peculiar Children #3),young-adult,48.56,5,15,https://books.toscrape.com/media/cache/79/7a/797a5468a7d06aba28d1cc7342b1f2ba.jpg
+314,116a2fdc9a45bab0,Frostbite (Vampire Academy #2),young-adult,29.99,5,15,https://books.toscrape.com/media/cache/2a/2d/2a2d6ebcedeb7249a2a85fd1fbfd06e1.jpg
+315,3fb15ace50d6142b,Wild Swans,young-adult,14.36,2,14,https://books.toscrape.com/media/cache/ad/42/ad42a85570a887faf1b9e12715cf59bf.jpg
+316,aba2db9afb1469c7,Until Friday Night (The Field Party #1),young-adult,46.31,2,14,https://books.toscrape.com/media/cache/e1/24/e1249f72129bd4b788ffd0cdd7834c24.jpg
+317,f0f38174a7e689a3,This Is Where It Ends,young-adult,27.12,2,14,https://books.toscrape.com/media/cache/8e/dc/8edc314a67ed5ddad7bd0a2f30ad3238.jpg
+318,6edacfd1f8ebb9eb,The Darkest Lie,young-adult,35.35,5,14,https://books.toscrape.com/media/cache/3b/6a/3b6ae7b1d7736819f4f44605441e283e.jpg
+319,137b0b2775701e11,My Kind of Crazy,young-adult,40.36,1,14,https://books.toscrape.com/media/cache/2b/38/2b38dc9b90299a9755fb15bed3293342.jpg
+320,ad2887ce04583910,Don't Get Caught,young-adult,55.35,1,14,https://books.toscrape.com/media/cache/78/11/78112d48a74583a7acc24a2b46a9f59d.jpg
+321,e2e7b683b4c15b7d,Catching Jordan (Hundred Oaks),young-adult,50.83,3,14,https://books.toscrape.com/media/cache/f4/8b/f48b76634af0040d4eea1ee896d3676b.jpg
+322,41164b8ac02a2c42,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),young-adult,58.14,4,14,https://books.toscrape.com/media/cache/e5/3a/e53a42b20d0c60634289aaad3fbb75c6.jpg
+323,f732d7d18a91d2ba,The Epidemic (The Program 0.6),young-adult,14.44,5,12,https://books.toscrape.com/media/cache/b6/2f/b62f16c69886271a55d3717883323283.jpg
+324,b63ea3f7a57ae099,Stars Above (The Lunar Chronicles #4.5),young-adult,48.05,2,12,https://books.toscrape.com/media/cache/8f/22/8f221677f6d28eba048ebb505fcfd90a.jpg
+325,aadee1c326d286e3,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,science,42.96,4,16,https://books.toscrape.com/media/cache/a3/9e/a39e7c5c9fc61c2ae0f81116aa8cbb0e.jpg
+326,e4f74c16de34d440,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,science,57.36,5,16,https://books.toscrape.com/media/cache/e1/1e/e11e7e9514a123aee2415a1def85e638.jpg
+327,3edcccc4f341fb1a,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,science,44.74,4,14,https://books.toscrape.com/media/cache/5d/a5/5da545b9d44464af8b3d0a9511a050ca.jpg
+328,148715df5a02ea5e,Tipping Point for Planet Earth: How Close Are We to the Edge?,science,37.55,1,12,https://books.toscrape.com/media/cache/8e/cb/8ecbec21e76445ee83229a439e22aeaa.jpg
+329,ca74f2e3c35a3e77,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",science,55.91,1,9,https://books.toscrape.com/media/cache/b2/5a/b25a722c3bab8b311454bc251a75334a.jpg
+330,0c11e2d068768dbb,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,science,28.41,1,8,https://books.toscrape.com/media/cache/29/5c/295ca7f5981786e8b2c6616d10158808.jpg
+331,0345872b14f9e774,The Origin of Species,science,10.01,4,7,https://books.toscrape.com/media/cache/d5/45/d54527d34174d5dd7eaeaaffdfcb3c5c.jpg
+332,3213b1f13f5f0f7c,The Grand Design,science,13.76,3,5,https://books.toscrape.com/media/cache/9b/69/9b696c2064d6ee387774b6121bb4be91.jpg
+333,6036239d2ab349b7,Peak: Secrets from the New Science of Expertise,science,16.28,2,5,https://books.toscrape.com/media/cache/7c/04/7c04c7a92b5ba83361eba81fa364a2ca.jpg
+334,c6bf14cb901c63ac,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",science,13.03,4,3,https://books.toscrape.com/media/cache/5e/db/5edba3f8d50df6306bc5aa3f2516bd0c.jpg
+335,63c0826ef59eae66,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",science,57.35,5,3,https://books.toscrape.com/media/cache/47/cd/47cd27d1ae8935f974541829eea328f2.jpg
+336,61002f3b7ba5d780,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",science,25.83,2,3,https://books.toscrape.com/media/cache/a5/50/a550edf8668b36d52d37080a804944ab.jpg
+337,281a244ce1954711,Seven Brief Lessons on Physics,science,30.60,4,3,https://books.toscrape.com/media/cache/ae/f9/aef933758e39ba5e4327b2152478bb1a.jpg
+338,6f2c0a9adbb2bca9,The Selfish Gene,science,29.45,1,1,https://books.toscrape.com/media/cache/d7/63/d763b806d6f0fb6580f16d08e00bdba6.jpg
+339,a897fe39b1053632,A Light in the Attic,poetry,51.77,3,22,https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg
+340,1dfe412b8ac00530,The Black Maria,poetry,52.15,1,19,https://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg
+341,30a7f60cd76ca58c,Shakespeare's Sonnets,poetry,20.66,4,19,https://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg
+342,feb7cc7701ecf901,Olio,poetry,23.88,1,19,https://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg
+343,55f9da0c5eea2e10,You can't bury them all: Poems,poetry,33.63,2,17,https://books.toscrape.com/media/cache/b7/44/b7440aa88046b0bf8cba50d59295518e.jpg
+344,b4fd5943413e089a,Slow States of Collapse: Poems,poetry,57.31,3,17,https://books.toscrape.com/media/cache/db/ac/dbac3faca8a799824f5725d66c0fcce3.jpg
+345,657fe5ead67a7767,Untitled Collection: Sabbath Poems 2014,poetry,14.27,4,16,https://books.toscrape.com/media/cache/65/6e/656e79dfd4f8b6bf19ffde2c75ceda81.jpg
+346,31001a1210623bd4,Poems That Make Grown Women Cry,poetry,14.19,4,15,https://books.toscrape.com/media/cache/18/ac/18ac3f16b10a5fc47e603d93335e3f24.jpg
+347,cfeb1e1e0e695b58,Night Sky with Exit Wounds,poetry,41.05,1,15,https://books.toscrape.com/media/cache/ff/48/ff48b0696fb97b7f7b5c6d15e372cb70.jpg
+348,86cbddb61ea78bb7,salt.,poetry,46.78,4,14,https://books.toscrape.com/media/cache/c9/92/c9924f9637aef6d9fc8e165be62f69ee.jpg
+349,aa35446aab16017f,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",poetry,50.89,5,14,https://books.toscrape.com/media/cache/68/92/68922093080c377fa521ba64d8d372e1.jpg
+350,c0fc0cd215ee1724,Out of Print: City Lights Spotlight No. 14,poetry,53.64,5,8,https://books.toscrape.com/media/cache/4c/5a/4c5a559bc2edb79e5d48af4dbc813eb2.jpg
+351,c44c5e1425475206,Les Fleurs du Mal,poetry,29.04,5,8,https://books.toscrape.com/media/cache/3d/32/3d324c0b55c221e9b701d4e772b42ad6.jpg
+352,b7870fa6dc088fbb,Howl and Other Poems,poetry,40.45,2,8,https://books.toscrape.com/media/cache/09/8e/098e81fcea9f6b4c15f6d207301c0085.jpg
+353,b74ee891e2a6dd69,Leave This Song Behind: Teen Poetry at Its Best,poetry,51.17,5,7,https://books.toscrape.com/media/cache/5e/ca/5eca840ed2d6f0f0d2f795922cb76741.jpg
+354,3d250ab0f12be445,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),poetry,15.42,5,6,https://books.toscrape.com/media/cache/b3/8c/b38cadc69f4a2db0aae2ee2867ab8583.jpg
+355,b228042c088b1913,The Crossover,poetry,38.77,4,5,https://books.toscrape.com/media/cache/25/fe/25fe373b974387a66ff1dea80f023ccb.jpg
+356,b54d7416bb445989,Booked,poetry,17.49,5,5,https://books.toscrape.com/media/cache/cf/3b/cf3b0341f5f4f4ad2c1439c11d32a9b1.jpg
+357,e63c3f25338baf9a,Twenty Love Poems and a Song of Despair,poetry,30.95,4,1,https://books.toscrape.com/media/cache/ec/10/ec10f11ff0ea13c17a42d81b03896235.jpg
+358,e7e87087b1a44711,"Vampire Knight, Vol. 1 (Vampire Knight #1)",paranormal,15.40,1,1,https://books.toscrape.com/media/cache/39/82/39826643a2e100f9e763079d7d5867f4.jpg
+359,ccd9ffa25efabdea,Wall and Piece,art,44.18,4,18,https://books.toscrape.com/media/cache/df/34/df346322ddfdd3b4da0e34cad17f49dc.jpg
+360,9194ae88379dbf1a,Feathers: Displays of Brilliant Plumage,art,49.05,3,14,https://books.toscrape.com/media/cache/0a/d4/0ad48326a0d2dbda145c94e1d50ef673.jpg
+361,d6d9ffea95f2f8bf,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,art,48.63,4,9,https://books.toscrape.com/media/cache/87/82/87822798b42545d589822bc712dc38a6.jpg
+362,3eec766dda26fa64,The New Drawing on the Right Side of the Brain,art,43.02,3,8,https://books.toscrape.com/media/cache/0a/8f/0a8f6461714ec9868dea0d37c5da5a81.jpg
+363,8a150fd8ff5d7686,History of Beauty,art,10.29,4,8,https://books.toscrape.com/media/cache/cb/74/cb74d2953d5249143c3c2e3c281daf6f.jpg
+364,9147c5251cc99eb1,The Story of Art,art,41.14,4,7,https://books.toscrape.com/media/cache/7a/e9/7ae92da23efc2f0f4633f9d2cde370f3.jpg
+365,4b8fa561a1e52d1c,The Art Book,art,32.34,2,7,https://books.toscrape.com/media/cache/76/90/76904c101329aa50b6653f399318970b.jpg
+366,66a4e422b212726a,Ways of Seeing,art,39.51,5,1,https://books.toscrape.com/media/cache/a5/54/a5542b7abc8673ea8254a3fe93b23e4e.jpg
+367,4e812d32d64e2431,The Lucifer Effect: Understanding How Good People Turn Evil,psychology,10.40,1,14,https://books.toscrape.com/media/cache/4b/2a/4b2a574e8382dcac92d046d30d2c27fc.jpg
+368,235fa48eeed11d82,The Golden Condom: And Other Essays on Love Lost and Found,psychology,39.43,1,12,https://books.toscrape.com/media/cache/e8/b4/e8b404939ad2b1cc9d896ba646919b17.jpg
+369,ce8666d9b42fc9a0,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,psychology,56.27,3,11,https://books.toscrape.com/media/cache/d3/26/d326484793116ccc786957d31e4fe912.jpg
+370,46cb43c2ab133ccc,An Unquiet Mind: A Memoir of Moods and Madness,psychology,21.30,3,6,https://books.toscrape.com/media/cache/e5/65/e56540f5e29286f3d7a1e3eb1912b61f.jpg
+371,719d72f3ee512dc6,"Thinking, Fast and Slow",psychology,21.14,1,3,https://books.toscrape.com/media/cache/7d/9b/7d9ba3173dcc0194ec63f9c77d0763cb.jpg
+372,396385e3de5d18c3,Civilization and Its Discontents,psychology,59.95,2,3,https://books.toscrape.com/media/cache/5c/27/5c2728296f41f2f0fb52142e35f49570.jpg
+373,f5873c8fc7760000,8 Keys to Mental Health Through Exercise,psychology,31.04,1,3,https://books.toscrape.com/media/cache/37/5e/375e0267fe12e7aa1f9f7f2bd2711ecb.jpg
+374,c99761a700ade23f,The Argonauts,autobiography,10.93,2,15,https://books.toscrape.com/media/cache/22/d0/22d01c710471f94dabfa41083fa3cf4e.jpg
+375,5569c3fea112718e,M Train,autobiography,27.18,1,11,https://books.toscrape.com/media/cache/f0/9f/f09fd4a3200b94db86364f308ac02530.jpg
+376,825d6c44da3ca5a6,Lab Girl,autobiography,40.85,1,11,https://books.toscrape.com/media/cache/26/ff/26ffcda626a5561e483afa19b58db8ac.jpg
+377,612369a5947a012e,Approval Junkie: Adventures in Caring Too Much,autobiography,58.81,5,5,https://books.toscrape.com/media/cache/96/6d/966d8d2afdead087cba0f29a69f89ba5.jpg
+378,28921443f052bea6,Running with Scissors,autobiography,12.91,4,3,https://books.toscrape.com/media/cache/4c/e1/4ce1ed40df359e001020e1ea55674381.jpg
+379,abc4a7ee16c21088,Me Talk Pretty One Day,autobiography,57.60,2,3,https://books.toscrape.com/media/cache/61/b2/61b220c2079a45a7975a397c8849e00e.jpg
+380,0dcadb06206abd3c,Lust & Wonder,autobiography,11.87,2,3,https://books.toscrape.com/media/cache/25/1c/251ce4355601534338a646f2b63be93a.jpg
+381,c53d9fefcda371e9,Life Without a Recipe,autobiography,59.04,5,3,https://books.toscrape.com/media/cache/9e/4f/9e4fb935df3113056cc9bdee6cd09ea6.jpg
+382,c9770bb1d5a492a0,A Heartbreaking Work of Staggering Genius,autobiography,54.29,5,3,https://books.toscrape.com/media/cache/47/f3/47f3d4f1e85773bf41ba64a036e37994.jpg
+383,ef49db2aaa9bb547,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,parenting,37.35,2,3,https://books.toscrape.com/media/cache/3c/b9/3cb9c84d2a6a66f8bb6601d4f33deaa0.jpg
+384,ed813a848580ba50,Fifty Shades Freed (Fifty Shades #3),adult-fiction,15.36,5,3,https://books.toscrape.com/media/cache/f4/07/f407d3bbf457d35701dfe72ee9ef3b68.jpg
+385,f21effc079a2b38a,The Long Haul (Diary of a Wimpy Kid #9),humor,44.07,1,14,https://books.toscrape.com/media/cache/b1/e6/b1e6c747381261cd6e60ac9d350c4bab.jpg
+386,02b74068fa98d8a4,Old School (Diary of a Wimpy Kid #10),humor,11.83,5,14,https://books.toscrape.com/media/cache/55/82/5582626cb185a8eb2914c15d5287afbd.jpg
+387,b8a8ff84233f0570,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,humor,25.98,4,14,https://books.toscrape.com/media/cache/04/ab/04ab560690b2383512d2fdf4c6366b1e.jpg
+388,fbb21a2f71f4d981,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",humor,14.75,5,14,https://books.toscrape.com/media/cache/25/1d/251df0eb9b321159b0ee348d4a9da2af.jpg
+389,7e9068872228c474,Dress Your Family in Corduroy and Denim,humor,43.68,3,9,https://books.toscrape.com/media/cache/9c/2b/9c2bdd3040938c144345a115fb906562.jpg
+390,4242cc3d0437db12,Toddlers Are A**holes: It's Not Your Fault,humor,25.55,1,7,https://books.toscrape.com/media/cache/26/1a/261a092ddd76981beb23a601edf0868b.jpg
+391,dab0196cd5fc8e5e,When You Are Engulfed in Flames,humor,30.89,5,3,https://books.toscrape.com/media/cache/42/1a/421afe48509fc8cccccad804b64c58dc.jpg
+392,54aeeb4610d3ae08,Naked,humor,31.69,3,3,https://books.toscrape.com/media/cache/80/2b/802b92421a7314b0a6afef8a9754cf5c.jpg
+393,190fbebbf798c31a,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",humor,55.50,5,3,https://books.toscrape.com/media/cache/c4/69/c469440eeffdd84ac3f4b09bd575c548.jpg
+394,0cb4856be3694a57,Holidays on Ice,humor,51.07,2,3,https://books.toscrape.com/media/cache/57/4c/574cbab555bb7d21e50b20267383e45d.jpg
+395,6f78a0d744c35456,Security,horror,39.25,2,16,https://books.toscrape.com/media/cache/79/2b/792bdeb2cf7d8efaef0e401e5a27b4da.jpg
+396,8585760646e3aa2a,Follow You Home,horror,21.36,1,15,https://books.toscrape.com/media/cache/bb/c0/bbc0bdad3ad7f390017ea66bb7019579.jpg
+397,2d88a31f325dfd3b,The Loney,horror,23.40,1,14,https://books.toscrape.com/media/cache/84/cc/84cc7f93a8c6c766a6297a23227e68e8.jpg
+398,af58a74e4b2a23a0,Pet Sematary,horror,10.56,3,14,https://books.toscrape.com/media/cache/99/ef/99ef2f3987ee016bdd120a4579ef98f5.jpg
+399,bf5de316a5e9a4ab,Doctor Sleep (The Shining #2),horror,40.12,2,14,https://books.toscrape.com/media/cache/30/05/30053f9d8549febc67059c52fca65744.jpg
+400,b8d7b3f5c7a95d65,Psycho: Sanitarium (Psycho #1.5),horror,36.97,5,12,https://books.toscrape.com/media/cache/91/98/9198cedbd37561f2aa343d3eb04ee703.jpg
+401,d069086944f2e330,Can You Keep a Secret? (Fear Street Relaunch #4),horror,48.64,1,12,https://books.toscrape.com/media/cache/03/83/0383a7f9cce4ab8fa1c5db6e69b169c6.jpg
+402,e958ae92f328c181,Red Dragon (Hannibal Lecter #1),horror,23.37,3,5,https://books.toscrape.com/media/cache/4a/ce/4acec5ebebf374e7a84a5d8c74ee5752.jpg
+403,e46b1074b99ac4b6,Dracula the Un-Dead,horror,35.63,5,5,https://books.toscrape.com/media/cache/b1/f2/b1f25fa4623b3ee2db6fb6d6e27c6fb5.jpg
+404,869d20b3b8128230,Night Shift (Night Shift #1-20),horror,12.75,4,4,https://books.toscrape.com/media/cache/b8/84/b8843e0c3fbadb1682b095c99eda7f7a.jpg
+405,70b585c9d0f15725,Needful Things,horror,47.51,4,4,https://books.toscrape.com/media/cache/d2/d8/d2d818d6654086560072fe1d42189636.jpg
+406,81d4191030b9704b,Misery,horror,34.79,2,4,https://books.toscrape.com/media/cache/cc/fb/ccfb8bb0f63377a67fb0a39d513f6cab.jpg
+407,670a2773607d785d,It,horror,25.01,3,4,https://books.toscrape.com/media/cache/f9/40/f9409b5717cc44f29aa444d85ad26bdc.jpg
+408,6e9403f00acd6752,'Salem's Lot,horror,49.56,4,4,https://books.toscrape.com/media/cache/d3/55/d35568710e773adf06a0bc756a99f66d.jpg
+409,49f24193f0b961e6,The Stand,horror,57.86,2,3,https://books.toscrape.com/media/cache/f9/8b/f98bdf42af5e223bc0f6ea6bd0a48a53.jpg
+410,92dcc54a27107a37,The Girl with All the Gifts,horror,49.47,3,3,https://books.toscrape.com/media/cache/9a/91/9a911066cb404976bcc25dbc8817432a.jpg
+411,557c03c284be1bf2,House of Leaves,horror,54.89,1,3,https://books.toscrape.com/media/cache/20/c2/20c2ff61355569b4f84e2f847e37db25.jpg
+412,4165285e1663650f,Sapiens: A Brief History of Humankind,history,54.23,5,20,https://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg
+413,9a9d6e9bc555731e,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",history,25.52,1,16,https://books.toscrape.com/media/cache/27/a1/27a1ebe79d6e6759ec68ea9f427a4f71.jpg
+414,a3d2a4250807f1e9,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,history,19.73,1,16,https://books.toscrape.com/media/cache/2e/65/2e654066306042f4c462ba4d048650d9.jpg
+415,7392c0032f92d816,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",history,36.28,2,16,https://books.toscrape.com/media/cache/31/e6/31e6e0a41e62858180b268c27b20a770.jpg
+416,de3f25248ba0789f,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,history,59.64,1,15,https://books.toscrape.com/media/cache/77/79/777988a85de2269905bd8c2070a3cf58.jpg
+417,dd5bfa6cc2c0ecc3,Zealot: The Life and Times of Jesus of Nazareth,history,24.70,3,14,https://books.toscrape.com/media/cache/21/da/21dab5c065cfcde1bad7ded16a753102.jpg
+418,d5e0526e1ab682a3,A Distant Mirror: The Calamitous 14th Century,history,14.58,3,14,https://books.toscrape.com/media/cache/d8/0a/d80ac19cd0aef94c5ac257b1eb3c1d37.jpg
+419,6e8e5626ac4d279e,1491: New Revelations of the Americas Before Columbus,history,21.80,3,14,https://books.toscrape.com/media/cache/2d/d2/2dd235d80326531092c70e191d630c7d.jpg
+420,7f5157bf53065d36,Brilliant Beacons: A History of the American Lighthouse,history,11.45,3,8,https://books.toscrape.com/media/cache/ba/59/ba5913de7abe0d9dbe9c8128092a52af.jpg
+421,f16c2edb2a603f92,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",history,44.48,5,8,https://books.toscrape.com/media/cache/43/f2/43f25e9633b587a4052b517cd7b3b4a9.jpg
+422,6c7fa6844380f50a,A Short History of Nearly Everything,history,52.40,5,7,https://books.toscrape.com/media/cache/17/aa/17aa3d17bae02fa1d0e2a831c0c0e58b.jpg
+423,774fa432bd7d9c47,The Rise and Fall of the Third Reich: A History of Nazi Germany,history,39.67,2,6,https://books.toscrape.com/media/cache/10/f6/10f6ebfa89b070ba39ad7c4c872c96ea.jpg
+424,f3c70d296ec796c4,Catherine the Great: Portrait of a Woman,history,58.55,4,6,https://books.toscrape.com/media/cache/37/3a/373af6af58a00ca69602d74b81951ac4.jpg
+425,0d210d2448c3018f,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,history,42.91,5,5,https://books.toscrape.com/media/cache/52/74/5274c64fbcb7ce4bbf427ed751f6cada.jpg
+426,c4589ee5977a47be,The Hiding Place,history,55.91,4,5,https://books.toscrape.com/media/cache/74/92/74927818a922712c13999a8043f7f35c.jpg
+427,add33db6ff80db24,America's War for the Greater Middle East: A Military History,history,51.22,2,5,https://books.toscrape.com/media/cache/da/0c/da0ca0d6586f8164b7a96d4c807a6c7f.jpg
+428,b5da59dd177eb36b,The Guns of August,history,14.54,2,3,https://books.toscrape.com/media/cache/ca/23/ca23598be538026a7898232e8a1079d0.jpg
+429,1812b8f5641287e3,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",history,43.70,2,3,https://books.toscrape.com/media/cache/f5/b7/f5b783f6cfdfe30895d912f9e337bb22.jpg
+430,5674a18a29a43ced,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",food-and-drink,30.52,3,19,https://books.toscrape.com/media/cache/9f/58/9f58d3ff6d58589eaf325b1a33c303a0.jpg
+431,142d767a56a9254d,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",food-and-drink,56.41,1,16,https://books.toscrape.com/media/cache/fd/af/fdaf3c3104c559941c01e840fecd2659.jpg
+432,784bc2279baa878d,My Paris Kitchen: Recipes and Stories,food-and-drink,33.37,2,16,https://books.toscrape.com/media/cache/ae/d5/aed548aefcac7803a599b05da3acb86e.jpg
+433,72f9d5be3472d34e,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",food-and-drink,14.02,4,16,https://books.toscrape.com/media/cache/48/19/48192cbef9101060e3787d87d7c8d7d1.jpg
+434,7b75cc7f223791f4,"Layered: Baking, Building, and Styling Spectacular Cakes",food-and-drink,40.11,1,16,https://books.toscrape.com/media/cache/73/06/7306b860c7887dfb2a4b0083e2d6bf0d.jpg
+435,e4c7f3487d17fd42,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,food-and-drink,37.34,5,15,https://books.toscrape.com/media/cache/41/57/4157492623f9552e3efdc858a19968f3.jpg
+436,e28e330cbdf01126,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,food-and-drink,37.60,2,15,https://books.toscrape.com/media/cache/88/e7/88e70e44632c3ca306191007bc723806.jpg
+437,96a38e7c813d8f1d,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,food-and-drink,41.25,1,15,https://books.toscrape.com/media/cache/81/37/81374b88e925ba998c4049abcf805196.jpg
+438,46c1530d7546ea6d,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",food-and-drink,42.16,3,15,https://books.toscrape.com/media/cache/38/c3/38c342d52a30a8eb38b34668e9777222.jpg
+439,ddc8340dabc8641b,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,food-and-drink,28.77,3,14,https://books.toscrape.com/media/cache/bc/eb/bceb609c54f7739682b319a27a5b9783.jpg
+440,245e6bf08b8d2955,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",food-and-drink,19.55,1,14,https://books.toscrape.com/media/cache/38/08/380869ceca4ab70f8620b02187bdf60a.jpg
+441,999912e63a3262ae,Barefoot Contessa Back to Basics,food-and-drink,28.01,1,14,https://books.toscrape.com/media/cache/29/b1/29b1f537504f37527f1bf8182559684e.jpg
+442,0e0da9192a025efc,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,food-and-drink,50.62,5,14,https://books.toscrape.com/media/cache/4e/92/4e92fef6b2d96fb732480c484dcb1a98.jpg
+443,8bbd7df8a324f31d,My Kitchen Year: 136 Recipes That Saved My Life,food-and-drink,11.53,2,13,https://books.toscrape.com/media/cache/70/48/7048787b6fdc04627217bf39465acb7e.jpg
+444,76319fe9d8b465a3,Everyday Italian: 125 Simple and Delicious Recipes,food-and-drink,20.10,5,12,https://books.toscrape.com/media/cache/4e/eb/4eebc29c9f3885800e6ae2c62c836145.jpg
+445,a4eef523118805ef,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",food-and-drink,38.77,1,12,https://books.toscrape.com/media/cache/f4/9c/f49c0d70aedc01b5eb0988d35c77550c.jpg
+446,2587c54f5530dafc,Cravings: Recipes for What You Want to Eat,food-and-drink,20.50,3,11,https://books.toscrape.com/media/cache/7d/b4/7db4a7faaa0ea5134cabbb517bdd6cc7.jpg
+447,65cfc9f242c2984a,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",food-and-drink,12.34,4,9,https://books.toscrape.com/media/cache/c1/87/c187a9eb27d932f862ac06beec15c24c.jpg
+448,b1a227b7609ff263,32 Yolks,food-and-drink,53.63,2,8,https://books.toscrape.com/media/cache/76/03/76038c9e795babed29d370097247c9a6.jpg
+449,924438fc6cbec836,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",food-and-drink,11.38,5,7,https://books.toscrape.com/media/cache/5b/46/5b466903acc905deb89019c0407848c4.jpg
+450,b53db2271c9624f7,Redeeming Love,christian-fiction,20.47,5,15,https://books.toscrape.com/media/cache/c9/74/c974d74fa0bd1735c6ae172d40b1c077.jpg
+451,a57b1dcbd6849222,Close to You,christian-fiction,49.46,4,15,https://books.toscrape.com/media/cache/94/f4/94f4405dae04559ecdd92e62486623e3.jpg
+452,bee6e93e9976f4fa,Shadows of the Past (Logan Point #1),christian-fiction,39.67,5,8,https://books.toscrape.com/media/cache/61/3a/613ac19c2232f1d9adc5943291a5e860.jpg
+453,b6670507e85b30e6,Like Never Before (Walker Family #2),christian-fiction,28.77,2,7,https://books.toscrape.com/media/cache/1b/38/1b3825668326e82038ba33bca646e0f3.jpg
+454,4807043b8218e9ce,Counted With the Stars (Out from Egypt #1),christian-fiction,17.97,5,7,https://books.toscrape.com/media/cache/33/93/339372341b88e027734e97fa1ddb26fc.jpg
+455,61569d12d4ae7161,If I Run (If I Run #1),christian-fiction,49.97,4,3,https://books.toscrape.com/media/cache/54/17/54179d9af49616b1ef35a0bb23294b14.jpg
+456,2597b5a345f45e1b,The Dirty Little Secrets of Getting Your Dream Job,business,33.34,4,19,https://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg
+457,3bebf34ee9330cbd,The Third Wave: An Entrepreneur’s Vision of the Future,business,12.61,5,15,https://books.toscrape.com/media/cache/0f/76/0f76b00ea914ced1822d8ac3480c485f.jpg
+458,56e4f9eab2e8e674,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,business,27.55,3,15,https://books.toscrape.com/media/cache/50/4b/504b1891508614ff9393563f69d66c95.jpg
+459,0e0dcc3339602b28,Shoe Dog: A Memoir by the Creator of NIKE,business,23.99,2,15,https://books.toscrape.com/media/cache/fc/21/fc21d144c7289e5b1cb133e01a925126.jpg
+460,b96fc7a0ea7d4b45,Made to Stick: Why Some Ideas Survive and Others Die,business,38.85,5,14,https://books.toscrape.com/media/cache/1e/3e/1e3e1572e17ade03b21c44617fbc4d68.jpg
+461,8976d9161c027142,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,business,43.14,1,12,https://books.toscrape.com/media/cache/fe/1a/fe1afbd5caf79c3c957bfc5cf46f141e.jpg
+462,1c584f82a7a1c4f0,The Art of Startup Fundraising,business,21.00,3,11,https://books.toscrape.com/media/cache/67/e8/67e81a7a82578a919a48816330836090.jpg
+463,816180220e8cb419,Born for This: How to Find the Work You Were Meant to Do,business,21.59,5,11,https://books.toscrape.com/media/cache/9f/e7/9fe7f6432f216b166cb36f16130f20f6.jpg
+464,a2308a936e898d48,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,business,36.91,1,8,https://books.toscrape.com/media/cache/a5/7e/a57ef7bdbaf704fca07ab6dd125b54f9.jpg
+465,8486f61aa81a3daa,"Rich Dad, Poor Dad",business,51.74,1,7,https://books.toscrape.com/media/cache/46/1c/461cf454be3aac0b4cd066247c892679.jpg
+466,70c7c3ca7f9b2728,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,business,33.92,3,3,https://books.toscrape.com/media/cache/52/6e/526e9f360da288db64ca70c89cdbcaa9.jpg
+467,8e9dd8431170c09e,Rework,business,44.88,2,3,https://books.toscrape.com/media/cache/12/23/12233a9d0bf8187a988c27c6a54b3d31.jpg
+468,d69dd8dac66f9f84,Louisa: The Extraordinary Life of Mrs. Adams,biography,16.85,2,15,https://books.toscrape.com/media/cache/ec/2a/ec2a7df6fdafc7e6f97b6c6da7980584.jpg
+469,b06599b108e83f98,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",biography,21.15,2,11,https://books.toscrape.com/media/cache/86/54/86546f67cb4a3112b15b03a4ec2e7255.jpg
+470,57f85720e54d6442,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,biography,39.55,1,7,https://books.toscrape.com/media/cache/d7/cb/d7cbdb36b54398ba3876488726befc3d.jpg
+471,5b546a46a86a9d8c,Benjamin Franklin: An American Life,biography,48.19,3,7,https://books.toscrape.com/media/cache/c2/7e/c27efce6a2321c10b0d34035308ace37.jpg
+472,1a5044d233936b1a,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),biography,42.57,3,3,https://books.toscrape.com/media/cache/4c/09/4c090b85892f532210e44d84b752b64d.jpg
+473,23356462d1320d61,In Her Wake,thriller,12.84,1,19,https://books.toscrape.com/media/cache/27/92/2792ef951651ff1eae40a410cac41e0f.jpg
+474,5dada2b7be26bd03,The Elephant Tree,thriller,23.82,5,18,https://books.toscrape.com/media/cache/4b/80/4b80a3d9148e224ed4d6cd4d33f43728.jpg
+475,be5cc846f45496fb,Behind Closed Doors,thriller,52.22,4,18,https://books.toscrape.com/media/cache/a5/85/a58571db229f2e8f75ea38861eca7f39.jpg
+476,024387ca4cafd5cc,You (You #1),thriller,43.61,5,14,https://books.toscrape.com/media/cache/f2/f1/f2f19169771a8a8e1a4b72f22e799de8.jpg
+477,847935fc68707426,The Guilty (Will Robie #4),thriller,13.82,2,14,https://books.toscrape.com/media/cache/7f/fd/7ffdc9c4b7bf965990c59460da9b66b7.jpg
+478,1b8187fa4bf6ab05,The 14th Colony (Cotton Malone #11),thriller,39.24,1,14,https://books.toscrape.com/media/cache/5b/3e/5b3e36ce7c82e9dd8b416a23531c0121.jpg
+479,012170e4fc87ace0,Give It Back,thriller,18.32,2,6,https://books.toscrape.com/media/cache/15/d4/15d444bf7fc91c7ced84e73ec99d711d.jpg
+480,8dde2ff3f6fcc0a3,Killing Floor (Jack Reacher #1),thriller,31.49,4,5,https://books.toscrape.com/media/cache/b1/5b/b15b4c864b762133cdaf69b58ba55d76.jpg
+481,9c4d061c1e2fe6bf,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),thriller,59.71,3,4,https://books.toscrape.com/media/cache/8d/1f/8d1f11673fbe46f47f27b9a4c8efbf8a.jpg
+482,ad15a9a139919918,Far From True (Promise Falls Trilogy #2),thriller,34.93,2,4,https://books.toscrape.com/media/cache/9c/aa/9caacda3ff43984447ee22712e7e9ca9.jpg
+483,2b685187f55c5d31,The Travelers,thriller,15.77,1,3,https://books.toscrape.com/media/cache/42/a3/42a345bdcb3e13d5922ff79cd1c07d0e.jpg
+484,3ecb690d1542c568,When We Collided,contemporary,31.77,1,16,https://books.toscrape.com/media/cache/17/db/17db3de71e8217d4277a9328b04f56cf.jpg
+485,a278db6b2b09cf9f,Someone Like You (The Harrisons #2),contemporary,52.79,5,14,https://books.toscrape.com/media/cache/03/67/03672d82cd257167775d88568d2cce38.jpg
+486,be3db344a845580b,We Are All Completely Beside Ourselves,contemporary,24.04,1,3,https://books.toscrape.com/media/cache/8d/95/8d95f4fd1ea785555a28d6371444ce6d.jpg
+487,6258a1f6a6dcfe50,The Four Agreements: A Practical Guide to Personal Freedom,spirituality,17.66,5,18,https://books.toscrape.com/media/cache/2b/1b/2b1bfecae9d512cb6ee943ccf786216f.jpg
+488,7d6d2a6c0276f81b,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,spirituality,32.24,5,16,https://books.toscrape.com/media/cache/da/0c/da0ca35421a5120b2109028e44a53f56.jpg
+489,513271dadc1322ae,Chasing Heaven: What Dying Taught Me About Living,spirituality,37.80,2,15,https://books.toscrape.com/media/cache/87/cd/87cd2aa5c4e38244ffcb17b84b0f6efd.jpg
+490,8fab4c4f6f82a4ce,If I Gave You God's Phone Number....: Searching for Spirituality in America,spirituality,20.91,1,9,https://books.toscrape.com/media/cache/91/1a/911a12f954fc65fc4cc0e8a8f8b30750.jpg
+491,48cb52d78c992487,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,spirituality,46.33,2,7,https://books.toscrape.com/media/cache/80/43/804385d2b49e2f9e26a7d88b8ccaf62d.jpg
+492,f6ae39568db1130e,A New Earth: Awakening to Your Life's Purpose,spirituality,55.65,5,4,https://books.toscrape.com/media/cache/13/1b/131bca3895aa2892f400020cd939cd42.jpg
+493,7093cf549cd2e7de,Logan Kade (Fallen Crest High #5.5),academic,13.12,2,5,https://books.toscrape.com/media/cache/2b/44/2b4404e00c242bf1b8263bdd99c07354.jpg
+494,9ffa38d3b832433a,Online Marketing for Busy Authors: A Step-By-Step Guide,self-help,46.35,1,16,https://books.toscrape.com/media/cache/49/e1/49e1f207b2149e34390a2c6aa7cfc113.jpg
+495,a6f99b9e687f9d46,How to Be Miserable: 40 Strategies You Already Use,self-help,46.03,1,16,https://books.toscrape.com/media/cache/b0/9d/b09d7cb6aa8ae112dd457e588762d293.jpg
+496,8ecf0356a3878811,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",self-help,52.15,3,14,https://books.toscrape.com/media/cache/7f/6b/7f6bfd0fc24b974b4d7721899e93aa2c.jpg
+497,88ec621893e595d0,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,self-help,12.08,3,7,https://books.toscrape.com/media/cache/73/7e/737e4921bc14d72245aad1f21d7a3eef.jpg
+498,e792c0969cefe1b8,How to Stop Worrying and Start Living,self-help,46.49,5,6,https://books.toscrape.com/media/cache/64/0c/640cfc86cd3943cef402dc6082497eec.jpg
+499,39861fc1c0845d15,All the Light We Cannot See,historical,29.87,5,14,https://books.toscrape.com/media/cache/a6/96/a696c1d6bb1ff8f65f51a116160b2aef.jpg
+500,eb7459e0c570251d,The Girl You Left Behind (The Girl You Left Behind #1),historical,15.79,1,6,https://books.toscrape.com/media/cache/6d/72/6d72120f94d38e356612c8a78e82a53d.jpg
+501,e4ac92d89b946781,(Un)Qualified: How God Uses Broken People to Do Big Things,christian,54.00,5,16,https://books.toscrape.com/media/cache/e4/f8/e4f8c1c5954e09cb6c485d9db824eeb1.jpg
+502,4b9d9cfe0f435788,Crazy Love: Overwhelmed by a Relentless God,christian,47.72,2,14,https://books.toscrape.com/media/cache/5d/34/5d344393618369df3f560e018b1d9853.jpg
+503,a322361a37a78d3d,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,christian,25.77,1,7,https://books.toscrape.com/media/cache/98/4a/984ab50781e05461a753923eaba33e58.jpg
+504,e46a164cf310fd7d,Silence in the Dark (Logan Point #4),suspense,58.33,3,8,https://books.toscrape.com/media/cache/00/bf/00bf1ae17dde21c66e346dd9c393d6fa.jpg
+505,1bba4b1ba23ed2d6,The Grownup,short-stories,35.88,1,8,https://books.toscrape.com/media/cache/7e/cc/7ecc23cfaa84fb015a5333f2a5d97f23.jpg
+506,0e095ed785af7e43,Suzie Snowflake: One beautiful flake (a self-esteem story),novels,54.81,5,9,https://books.toscrape.com/media/cache/59/13/5913f74507084d0cd47e2b73fd806f9e.jpg
+507,43c6a960757cf559,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",health,49.05,3,16,https://books.toscrape.com/media/cache/9c/c6/9cc673854af8fd155953384b3cac334e.jpg
+508,047dfa57ba0bf638,"Eat Fat, Get Thin",health,54.07,2,14,https://books.toscrape.com/media/cache/a7/6b/a76b04d5de0b2f8f038c9ac27f4d2a42.jpg
+509,96aa539bfd4c07e2,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,health,49.71,5,10,https://books.toscrape.com/media/cache/79/84/7984ef7c568a60372f430c1ddae64034.jpg
+510,f9c87ccb2bc4853b,The Art and Science of Low Carbohydrate Living,health,52.98,5,9,https://books.toscrape.com/media/cache/82/f3/82f3b865f19faad855ec359f86415f79.jpg
+511,a18a4f574854aced,Libertarianism for Beginners,politics,51.33,2,19,https://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg
+512,2b5054a4192e9b06,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,politics,52.65,4,14,https://books.toscrape.com/media/cache/cd/64/cd64ccda3382d62fea8167eaadd6c9a0.jpg
+513,3968e3fbf4695d7c,Equal Is Unfair: America's Misguided Fight Against Income Inequality,politics,56.86,1,12,https://books.toscrape.com/media/cache/a6/3b/a63b2576d798c2041c602561499a26aa.jpg
+514,bb8245f52c7cce8f,Amid the Chaos,cultural,36.58,1,15,https://books.toscrape.com/media/cache/8a/94/8a94b2ba501119af0d3520b94daf8c20.jpg
+515,88c21fcd38e2486e,Dark Notes,erotica,19.19,5,15,https://books.toscrape.com/media/cache/1c/88/1c8807c42be085f3b061fe63f62a3c39.jpg
+516,abeafe151a587d3b,The Long Shadow of Small Ghosts: Murder and Memory in an American City,crime,10.97,1,15,https://books.toscrape.com/media/cache/2b/50/2b50fa031b2411a94bc68de0bbdd96fb.jpg
