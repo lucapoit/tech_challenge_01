@@ -39,12 +39,24 @@ for link in links:
     #confere se o link leva para uma página de catálogo
     if ('catalogue/category/books/' in link['href']):
 
-        nextpage = requests.get('https://books.toscrape.com/'+ link['href'])
-        nextsoup = BeautifulSoup(nextpage.content, 'html.parser')
-        books = nextsoup.find_all(class_ = "product_pod" )
+        category_page = requests.get('https://books.toscrape.com/'+ link['href'])
+        category_soup = BeautifulSoup(category_page.content, 'html.parser')
+        books = category_soup.find_all(class_ = "product_pod" )        
 
         #progress-tracking para quando rodar o programa
-        #print('https://books.toscrape.com/'+ link['href'])
+        print('https://books.toscrape.com/'+ link['href'])
+
+        next_page_link = category_soup.find('li', class_ = "next" )
+
+        if next_page_link:
+
+            next_page = next_page_link.find('a', href=True)
+
+            if next_page:
+                new_link = 'catalogue/category/books/'+ link['href'].split('/')[-2] + '/' + next_page['href']
+                next_page['href'] = new_link
+                links.append(next_page)
+                print(f'adicionando a pagina {next_page['href']}')
 
         #extrai infos de cada livro disponibilizado na página
         for book in books:
@@ -117,7 +129,7 @@ books_dict = {'id':ids,'title':titles,'category':categories,'price':prices,'rati
 books_df = pd.DataFrame(books_dict)
 
 #exporta o csv
-#books_df.to_csv('books.csv')
+books_df.to_csv('books.csv')
 
 
 
