@@ -44,7 +44,7 @@ for link in links:
         books = category_soup.find_all(class_ = "product_pod" )        
 
         #progress-tracking para quando rodar o programa
-        print('https://books.toscrape.com/'+ link['href'])
+        #print('https://books.toscrape.com/'+ link['href'])
 
         next_page_link = category_soup.find('li', class_ = "next" )
 
@@ -56,7 +56,9 @@ for link in links:
                 new_link = 'catalogue/category/books/'+ link['href'].split('/')[-2] + '/' + next_page['href']
                 next_page['href'] = new_link
                 links.append(next_page)
-                print(f'adicionando a pagina {next_page['href']}')
+
+                #progress-tracking para quando rodar o programa
+                #print(f'adicionando a pagina {next_page['href']}')
 
         #extrai infos de cada livro disponibilizado na página
         for book in books:
