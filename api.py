@@ -90,7 +90,7 @@ async def get_top_rated_books():
         return  books[books['rating']==5].to_dict(orient='records')
     
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Health check failed: {str(e)}")
+        raise HTTPException(status_code=404, detail=f"nenhum livro encontrado com 5 estrelas: {str(e)}")
     
 
 @router.get('/books/price-range')
@@ -98,7 +98,7 @@ async def get_book_by_price(min:float, max:float):
     try:
         return books[(books['price']>=min) & (books['price']<=max)].to_dict(orient='records')
     except Exception as e:
-        raise HTTPException(status_code=404, detail=f"No books found in that range: {str(e)}")
+        raise HTTPException(status_code=404, detail=f"Nenhum livro encontrado nesse intervalo de preço: {str(e)}")
 
 
 @router.get('/books/{id}')
@@ -120,7 +120,7 @@ async def health_check():
             "total de livros": total_books
         }
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Health check failed: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Health check falhou: {str(e)}")
 
 
 @router.get('/stats/overview')
@@ -133,7 +133,7 @@ async def stats_overview():
             "ratings": books['rating'].value_counts().to_dict()
         }
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Health check failed: {str(e)}")
+        raise HTTPException(status_code=404, detail=f"coleção nao encontrada: {str(e)}")
 
 
 app.include_router(router)
