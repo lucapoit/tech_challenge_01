@@ -9,7 +9,7 @@ Para cada livro na página é extraído seu respectivo:
     -link da capa
     -preço
 
-autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira, Felipe Guerreiro
+autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
 '''
 
 import pandas as pd
