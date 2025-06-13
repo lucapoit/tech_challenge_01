@@ -18,26 +18,21 @@ livros, preço médio, distribuição de ratings).
 • GET /api/v1/books/price-range?min={min}&max={max}: Filtra livros 
 dentro de uma faixa de preço específica.
 
+• GET /api/v1/ml/features - Dados formatados para features. 
+• GET /api/v1/ml/training-data - Dataset para treinamento. 
+• POST /api/v1/ml/predictions - Endpoint para receber predições.
+
 autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
 '''
 
 
 from fastapi import FastAPI, HTTPException, APIRouter
-from pydantic import BaseModel
+from basemodels import Book, PredictionInput
 import pandas as pd
-
+from ml_model import fake_model 
 
 
 books = pd.read_csv('books.csv')
-
-class Book(BaseModel):
-    id : str
-    title : str = None
-    category : str = None
-    price : float = None
-    rating : int = None
-    availability : int = None
-    image_links : str = None
 
 
 app = FastAPI(
@@ -49,6 +44,7 @@ app = FastAPI(
 router = APIRouter(
     prefix="/api/v1"
 )
+
 
 
 @router.get('/')
@@ -87,10 +83,10 @@ async def get_categories():
 @router.get('/books/top-rated')
 async def get_top_rated_books():
     try:
-        return  books[books['rating']==5].to_dict(orient='records')
+        return  books.sort_values(by=['rating','price','availability'], ascending=False).head(30).to_dict(orient='records')
     
     except Exception as e:
-        raise HTTPException(status_code=404, detail=f"nenhum livro encontrado com 5 estrelas: {str(e)}")
+        raise HTTPException(status_code=404, detail=f"nenhum livro encontrado: {str(e)}")
     
 
 @router.get('/books/price-range')
@@ -135,5 +131,32 @@ async def stats_overview():
     except Exception as e:
         raise HTTPException(status_code=404, detail=f"coleção nao encontrada: {str(e)}")
 
+@router.get('/ml/features')
+async def get_features():
+    try: 
+        features = pd.DataFrame()
+        features[['x1_availability','x2_rating']] = books[['availability','rating']]
+        return features.to_dict(orient='records')
+    
+    except Exception as e:
+        raise HTTPException(status_code=404, detail='coleção não encontradas')
+    
+@router.get('/ml/training-data')
+async def get_training_data():
+    try: 
+        training_data = pd.DataFrame()
+        training_data[['x1_availability','x2_rating','y_labels_price']] = books[['availability','rating','price']].sample(frac=0.8)
+        return training_data.to_dict(orient='records')
+    
+    except Exception as e:
+        raise HTTPException(status_code=404, detail='coleção não encontradas')
+
+
+@router.post('/ml/predictions')
+async def receive_predictions(input: PredictionInput):
+    try: 
+        return fake_model(input)
+    except Exception as e:
+        raise HTTPException(status_code=404, detail='features inválidas')
 
 app.include_router(router)
