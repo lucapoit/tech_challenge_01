@@ -1,0 +1,9 @@
+{
+  "luca": {
+    "username": "luca",
+    "full_name": "Luca Poit",
+    "email": "luca@poit.com",
+    "hashed_password": "$2b$12$APqAbYk0fWZY/BpIdIvcNejKMKYg0U0QnzrsT1D/qx8HoFKNMfqeO",
+    "disabled": false
+  }
+}

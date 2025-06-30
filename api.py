@@ -22,18 +22,26 @@ dentro de uma faixa de preço específica.
 • GET /api/v1/ml/training-data - Dataset para treinamento. 
 • POST /api/v1/ml/predictions - Endpoint para receber predições.
 
+• POST /api/v1/auth/login - Gera um token usado para acessar rotas protegidas. 
+• GET /api/v1/ml/scraping/trigger - endpoint protegido que simula um ativador do scraping. 
+
+OBS: a fins de teste, o usuário autorizado tem credenciais
+
+username: luca 
+senha: secret
+
 autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
 '''
 
 
-from fastapi import FastAPI, HTTPException, APIRouter
+from fastapi import FastAPI, HTTPException, APIRouter, Depends, HTTPException
+from fastapi.security import OAuth2PasswordRequestForm
 from basemodels import Book, PredictionInput
 import pandas as pd
 from ml_model import fake_model 
-
+from utils import get_current_user, authenticate_user, verify_password, create_access_token
 
 books = pd.read_csv('books.csv')
-
 
 app = FastAPI(
     title = 'API para consulta de livros',
@@ -46,10 +54,26 @@ router = APIRouter(
 )
 
 
-
 @router.get('/')
 async def home():
     return 'hello world'
+
+
+# POST /login to get JWT token
+@router.post("/auth/login")
+async def login(form_data: OAuth2PasswordRequestForm = Depends()):
+    user = authenticate_user(form_data.username, form_data.password)
+    if not user:
+        raise HTTPException(status_code=400, detail="Usuário ou senha incorretos")
+    access_token = create_access_token(data={"sub": user["username"]})
+    return {"access_token": access_token, "token_type": "bearer"}
+
+
+# GET /protected that requires JWT token
+@router.get("/scraping/trigger")
+async def protected_route(current_user: str = Depends(get_current_user)):
+    return {"message": f"Olá, {current_user}. Você tem permissão para iniciar o Scraping."}
+
 
 
 @router.get('/books')
