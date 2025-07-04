@@ -12,17 +12,17 @@ Os dados são extraídos do site [Books to Scrape](https://books.toscrape.com/),
 
 .
 
-├── api/                    Endpoints da API FastAPI
+├── books/                   Arquivo CSV com os livros extraídos
 
-├── data/                   Arquivo CSV com os livros extraídos
+├── basemodels/              Modelos Pydantic
 
-├── models/                 Modelos Pydantic
+├── scraping/               Scripts de scraping
 
-├── scripts/                Scripts de scraping e modelo fake
+├── ml_model/               Script do modelo de ML fake
 
 ├── utils/                  Funções auxiliares
 
-├── main.py                 Inicialização da aplicação FastAPI
+├── api.py                  Inicialização da aplicação FastAPI
 
 ├── requirements.txt        Dependências
 
@@ -87,7 +87,6 @@ uvicorn main:app --reload
 ### Endpoints protegidos (opcional)
 
 - `POST /api/v1/auth/login`: Gera token JWT
-- `POST /api/v1/auth/refresh`: Atualiza token JWT
 - `POST /api/v1/scraping/trigger`: Executa novo scraping (rota protegida)
 
 ---
