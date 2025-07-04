@@ -54,13 +54,13 @@ router = APIRouter(
 )
 
 
-@router.get('/')
+@router.get('/', tags=['HOMEPAGE'])
 async def home():
     return 'hello world'
 
 
 # POST /login to get JWT token
-@router.post("/auth/login")
+@router.post("/auth/login", tags=['LOGIN'])
 async def login(form_data: OAuth2PasswordRequestForm = Depends()):
     user = authenticate_user(form_data.username, form_data.password)
     if not user:
@@ -70,18 +70,18 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends()):
 
 
 # GET /protected that requires JWT token
-@router.get("/scraping/trigger")
+@router.get("/scraping/trigger", tags=['ADMIN'])
 async def protected_route(current_user: str = Depends(get_current_user)):
     return {"message": f"Olá, {current_user}. Você tem permissão para iniciar o Scraping."}
 
 
 
-@router.get('/books')
+@router.get('/books', tags=['BOOKS'])
 async def get_items():
     return books.to_dict(orient='records')
 
 
-@router.get('/books/search')
+@router.get('/books/search', tags=['BOOKS'])
 async def get_book_by_name(title:str, category:str):
 
     filtered_books = books[
@@ -94,7 +94,7 @@ async def get_book_by_name(title:str, category:str):
     return filtered_books.to_dict(orient='records')[0]
 
 
-@router.get('/categories')
+@router.get('/categories', tags=['BOOKS'])
 async def get_categories():
 
     try:
@@ -104,7 +104,7 @@ async def get_categories():
         raise HTTPException(status_code=404, detail='coleção nao encontrada')
 
 
-@router.get('/books/top-rated')
+@router.get('/books/top-rated', tags=['INSIGHTS'])
 async def get_top_rated_books():
     try:
         return  books.sort_values(by=['rating','price','availability'], ascending=False).head(30).to_dict(orient='records')
@@ -113,7 +113,7 @@ async def get_top_rated_books():
         raise HTTPException(status_code=404, detail=f"nenhum livro encontrado: {str(e)}")
     
 
-@router.get('/books/price-range')
+@router.get('/books/price-range', tags=['INSIGHTS'])
 async def get_book_by_price(min:float, max:float):
     try:
         return books[(books['price']>=min) & (books['price']<=max)].to_dict(orient='records')
@@ -121,7 +121,7 @@ async def get_book_by_price(min:float, max:float):
         raise HTTPException(status_code=404, detail=f"Nenhum livro encontrado nesse intervalo de preço: {str(e)}")
 
 
-@router.get('/books/{id}')
+@router.get('/books/{id}', tags=['BOOKS'])
 async def get_book(id:str):
     book = books[books['id'] == id]
     if book.empty:
@@ -129,7 +129,7 @@ async def get_book(id:str):
     return book.to_dict(orient='records')[0]
 
 
-@router.get('/health')
+@router.get('/health', tags=['HEALTH'])
 async def health_check():
     try:
 
@@ -143,7 +143,7 @@ async def health_check():
         raise HTTPException(status_code=500, detail=f"Health check falhou: {str(e)}")
 
 
-@router.get('/stats/overview')
+@router.get('/stats/overview', tags=['INSIGHTS'])
 async def stats_overview():
     try:
 
@@ -155,7 +155,7 @@ async def stats_overview():
     except Exception as e:
         raise HTTPException(status_code=404, detail=f"coleção nao encontrada: {str(e)}")
 
-@router.get('/ml/features')
+@router.get('/ml/features', tags=['ML READY'])
 async def get_features():
     try: 
         features = pd.DataFrame()
@@ -165,7 +165,7 @@ async def get_features():
     except Exception as e:
         raise HTTPException(status_code=404, detail='coleção não encontradas')
     
-@router.get('/ml/training-data')
+@router.get('/ml/training-data', tags=['ML READY'])
 async def get_training_data():
     try: 
         training_data = pd.DataFrame()
@@ -176,7 +176,7 @@ async def get_training_data():
         raise HTTPException(status_code=404, detail='coleção não encontradas')
 
 
-@router.post('/ml/predictions')
+@router.post('/ml/predictions', tags=['ML READY'])
 async def receive_predictions(input: PredictionInput):
     try: 
         return fake_model(input)
