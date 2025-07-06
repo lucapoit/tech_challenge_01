@@ -11,10 +11,10 @@ Os dados são extraídos do site [Books to Scrape](https://books.toscrape.com/),
 ## 🔧 Estrutura do Projeto
 
 .
-
+<pre>
 ├── books.csv                   Arquivo CSV com os livros extraídos
 
-├── users.json                  Arquivo json com os usuários com permissões (idealmente invisível)
+├── users.json                  Arquivo json com o usuário teste com permissões
 
 ├── ml_model.py                 Simula o modelo de ML
 
@@ -35,7 +35,7 @@ Os dados são extraídos do site [Books to Scrape](https://books.toscrape.com/),
 ├── .python-version             Para deploy com Heroku
 
 └── README.md
-
+</pre>
 ---
 
 ## 🚀 Como Executar Localmente
