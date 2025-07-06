@@ -12,19 +12,27 @@ Os dados são extraídos do site [Books to Scrape](https://books.toscrape.com/),
 
 .
 
-├── api/                    Endpoints da API FastAPI
+├── books.csv                 Arquivo CSV com os livros extraídos
 
-├── data/                   Arquivo CSV com os livros extraídos
+├── users.json                Arquivo json com os usuários com permissões (idealmente invisível)
 
-├── models/                 Modelos Pydantic
+├── ml_model.py               Simula o modelo de ML
 
-├── scripts/                Scripts de scraping e modelo fake
+├── basemodels.py             Classes usadas em outras partes do projeto
 
-├── utils/                  Funções auxiliares
+├── auht_utils.py             Funções auxiliares de autenticação
 
-├── main.py                 Inicialização da aplicação FastAPI
+├── db_utils.py               Funções auxiliares de interação com o banco de dados
 
-├── requirements.txt        Dependências
+├── api.py                    Inicialização da aplicação FastAPI
+
+├── streamlit_dashboard.py    Gera o dashboard sobre o funcionamento da API
+
+├── requirements.txt          Dependências
+
+├── Procfile                  Para deploy com Heroku
+
+├── .python-version           Para deploy com Heroku
 
 └── README.md
 
@@ -87,7 +95,6 @@ uvicorn main:app --reload
 ### Endpoints protegidos (opcional)
 
 - `POST /api/v1/auth/login`: Gera token JWT
-- `POST /api/v1/auth/refresh`: Atualiza token JWT
 - `POST /api/v1/scraping/trigger`: Executa novo scraping (rota protegida)
 
 ---
@@ -118,7 +125,7 @@ GET /api/v1/books/search?title=python
 
 A aplicação está disponível em produção neste link:
 
-👉 [https://books-api-example.onrender.com](https://books-api-example.onrender.com)
+👉 [https://tc-01-c70fbb49e587.herokuapp.com/docs#/](https://tc-01-c70fbb49e587.herokuapp.com/docs#/) 
 
 ---
 
@@ -129,6 +136,7 @@ A aplicação está disponível em produção neste link:
 - **API REST**: Disponibiliza os dados via FastAPI
 - **ML Ready**: Endpoints simulando predições e extração de features
 - **Escalável**: Estrutura modular, fácil de manter e expandir
+- **Monitoramento**: Dashboard de monitoramento disponível em [https://tech-challenge-001.streamlit.app/](https://tech-challenge-001.streamlit.app/)
 
 ---
 
