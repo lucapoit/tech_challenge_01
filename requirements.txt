@@ -1,7 +1,12 @@
 fastapi
 uvicorn
-pandas
+sqlalchemy
 python-dotenv
-python-jose[cryptography]
+pydantic
+python-jose
 passlib[bcrypt]
-SQLAlchemy
+pandas
+streamlit
+plotly
+psycopg2-binary
+starlette
