@@ -12,27 +12,27 @@ Os dados são extraídos do site [Books to Scrape](https://books.toscrape.com/),
 
 .
 
-├── books.csv                 Arquivo CSV com os livros extraídos
+├── books.csv                   Arquivo CSV com os livros extraídos
 
-├── users.json                Arquivo json com os usuários com permissões (idealmente invisível)
+├── users.json                  Arquivo json com os usuários com permissões (idealmente invisível)
 
-├── ml_model.py               Simula o modelo de ML
+├── ml_model.py                 Simula o modelo de ML
 
-├── basemodels.py             Classes usadas em outras partes do projeto
+├── basemodels.py               Classes usadas em outras partes do projeto
 
-├── auht_utils.py             Funções auxiliares de autenticação
+├── auht_utils.py               Funções auxiliares de autenticação
 
-├── db_utils.py               Funções auxiliares de interação com o banco de dados
+├── db_utils.py                 Funções auxiliares de interação com o banco de dados
 
-├── api.py                    Inicialização da aplicação FastAPI
+├── api.py                      Inicialização da aplicação FastAPI
 
-├── streamlit_dashboard.py    Gera o dashboard sobre o funcionamento da API
+├── streamlit_dashboard.py      Gera o dashboard sobre o funcionamento da API
 
-├── requirements.txt          Dependências
+├── requirements.txt            Dependências
 
-├── Procfile                  Para deploy com Heroku
+├── Procfile                    Para deploy com Heroku
 
-├── .python-version           Para deploy com Heroku
+├── .python-version             Para deploy com Heroku
 
 └── README.md
 
