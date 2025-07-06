@@ -10,3 +10,5 @@ streamlit
 plotly
 psycopg2-binary
 starlette
+
+python-multipart
