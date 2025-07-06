@@ -34,12 +34,13 @@ autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
 '''
 
 
-from fastapi import FastAPI, HTTPException, APIRouter, Depends, HTTPException
+from fastapi import FastAPI, HTTPException, APIRouter, Depends
 from fastapi.security import OAuth2PasswordRequestForm
 from basemodels import Book, PredictionInput
 import pandas as pd
 from ml_model import fake_model 
-from utils import get_current_user, authenticate_user, verify_password, create_access_token
+from auth_utils import get_current_user, authenticate_user, verify_password, create_access_token
+from basemodels import LoggingMiddleware
 
 books = pd.read_csv('books.csv')
 
@@ -49,12 +50,14 @@ app = FastAPI(
     description='Projeto criado para o tech challenge 01 do curso de pós-graduação em Engenharia de Machine Learning na FIAP.'
 )
 
+app.add_middleware(LoggingMiddleware)
+
 router = APIRouter(
     prefix="/api/v1"
 )
 
 
-@router.get('/', tags=['HOMEPAGE'])
+@app.get('/', tags=['HOMEPAGE'])
 async def home():
     return 'hello world'
 

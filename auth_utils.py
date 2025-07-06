@@ -1,4 +1,4 @@
-from fastapi import HTTPException, Depends, HTTPException
+from fastapi import HTTPException, Depends
 from jose import JWTError, jwt
 from fastapi.security import OAuth2PasswordBearer
 from passlib.context import CryptContext

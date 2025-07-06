@@ -4,3 +4,4 @@ pandas
 python-dotenv
 python-jose[cryptography]
 passlib[bcrypt]
+SQLAlchemy
