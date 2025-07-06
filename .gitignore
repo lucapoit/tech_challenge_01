@@ -2,5 +2,4 @@
 **/*.pyc
 *.pdf
 init_db.py
-streamlit_dashboard.py
 .env
