@@ -31,6 +31,11 @@ username: luca
 senha: secret
 
 autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
+
+a database com logs é um banco postgresSQL instanciada com o NEON
+o deploy da API foi feito usando Heroku
+o deploy do dashboard com logs foi feito usando streamlit
+
 '''
 
 
