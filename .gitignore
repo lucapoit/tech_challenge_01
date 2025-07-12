@@ -3,3 +3,5 @@
 *.pdf
 init_db.py
 .env
+
+z_history.txt
