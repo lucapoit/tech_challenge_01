@@ -12,6 +12,7 @@ Para cada livro na página é extraído seu respectivo:
 autores: Luca Poit, Gabriel Jordan, Marcio Lima, Luciana Ferreira
 '''
 
+import time
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -110,45 +111,52 @@ def get_book_info(args):
         print(f"Erro ao processar {url}: {e}")
         return None
 
-# Coleta todas as páginas de categoria
-category_pages = get_all_category_pages()
+def run() -> float:
+    print('\n\nIniciando Scrapping...')
+    start_time = time.time()
 
-# Coleta todas as URLs de livros
-all_book_urls = []
-for category_page in category_pages:
-    all_book_urls += get_books_urls_from_category_page(category_page)
+    # Coleta todas as páginas de categoria
+    category_pages = get_all_category_pages()
 
-# Usa paralelismo para coletar dados de cada livro
-with ThreadPoolExecutor(max_workers=16) as executor:
-    results = list(executor.map(get_book_info, all_book_urls))
+    # Coleta todas as URLs de livros
+    all_book_urls = []
+    for category_page in category_pages:
+        all_book_urls += get_books_urls_from_category_page(category_page)
 
-# Filtra resultados válidos
-for result in results:
-    if result:
-        product_id, title, category, price, numeric_rating, stock_number, image_url = result
-        ids.append(product_id)
-        titles.append(title)
-        categories.append(category)
-        prices.append(price)
-        ratings.append(numeric_rating)
-        avaiability.append(stock_number)
-        image_links.append(image_url)
+    # Usa paralelismo para coletar dados de cada livro
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        results = list(executor.map(get_book_info, all_book_urls))
 
-# Gera o DataFrame
-books_df = pd.DataFrame({
-    'id': ids,
-    'title': titles,
-    'category': categories,
-    'price': prices,
-    'rating': ratings,
-    'availability': avaiability,
-    'image_links': image_links
-})
+    # Filtra resultados válidos
+    for result in results:
+        if result:
+            product_id, title, category, price, numeric_rating, stock_number, image_url = result
+            ids.append(product_id)
+            titles.append(title)
+            categories.append(category)
+            prices.append(price)
+            ratings.append(numeric_rating)
+            avaiability.append(stock_number)
+            image_links.append(image_url)
 
-# Exporta CSV
-books_df.to_csv('books.csv', index=False)
+    # Gera o DataFrame
+    books_df = pd.DataFrame({
+        'id': ids,
+        'title': titles,
+        'category': categories,
+        'price': prices,
+        'rating': ratings,
+        'availability': avaiability,
+        'image_links': image_links
+    })
+
+    # Exporta CSV
+    books_df.to_csv('books.csv', index=False)
+    
+    duration = time.time() - start_time
+    print(f'Tempo total de execução: {duration:.2f} segundos\n')
+    return duration
 
 
-
-            
-
+if __name__ == '__main__':
+    run()
