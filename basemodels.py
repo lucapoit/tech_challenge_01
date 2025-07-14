@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from fastapi import Request
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.responses import Response
@@ -23,12 +23,12 @@ class LoggingMiddleware(BaseHTTPMiddleware):
 
 class Book(BaseModel):
     id : str
-    title : str = None
-    category : str = None
-    price : float = None
-    rating : int = None
-    availability : int = None
-    image_links : str = None
+    title : str = Field(None, description='Título do livro')
+    category : str = Field(None, description='Categoria do livro')
+    price : float = Field(None, description='Preço do livro')
+    rating : int = Field(None, description='Avaliação do livro (0-5)')
+    availability : int = Field(None, description='Disponibilidade do livro')
+    image_links : str = Field(None, description='URL da imagem do livro')
 
 
 class PredictionInput(BaseModel):
