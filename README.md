@@ -58,13 +58,14 @@ pip install -r requirements.txt
 ```
 
 4. Execute o Web Scraping:
+Chame o endpoint api/v1/scraping/trigger (requer autenticação)
 ```bash
-python scripts/scraper.py
+python python scraping.py 
 ```
 
 5. Inicie a API:
 ```bash
-uvicorn main:app --reload
+uvicorn api:app --reload
 ```
 
 ---
@@ -109,7 +110,7 @@ GET /api/v1/books/search?title=python
 ```json
 [
   {
-    "id": "23",
+    "id": "a8f4577a48023344",
     "title": "Learning Python",
     "category": "Programming",
     "price": 45.90,
