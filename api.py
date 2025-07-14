@@ -47,6 +47,7 @@ import pandas as pd
 from ml_model import fake_model 
 from auth_utils import get_current_user, authenticate_user, verify_password, create_access_token
 from basemodels import LoggingMiddleware
+from scraping import run
 
 books = pd.read_csv('books.csv')
 
@@ -95,8 +96,18 @@ async def protected_route(current_user: str = Depends(get_current_user)):
     Este é um endpoint protegido que inicia o processo de web scraping
     do site 'books.toscrape.com' para atualizar a base de dados.
     """
-    return {"message": f"Olá, {current_user}. Você tem permissão para iniciar o Scraping."}
-
+    try:
+        duration = run()
+        return {
+            "message": f"Olá, {current_user}. Scraping realizado.",
+            "status": "success",
+            "duration": f'{duration:.1f} segundos'
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Falha no scraping: {type(e).__name__} - {str(e)}"
+        )
 
 
 @router.get('/books', tags=['BOOKS'], summary='Lista todos os livros disponíveis.')
