@@ -132,9 +132,13 @@ A aplicação está disponível em produção neste link:
 
 ## 🧠 Plano Arquitetural
 
-- **Ingestão de dados**: Web scraping automatizado (`scraper.py`)
-- **Processamento**: Dados armazenados em CSV
-- **API REST**: Disponibiliza os dados via FastAPI
+- **Arquitetura Atual** (Ingestão -> processamento -> API -> Consumo)
+
+![Arquitetura Atual](./assets/arquitetura_atual.png)
+- **Arquitetura Futura** 
+
+![Arquitetura Futura](./assets/arquitetura_futura.png)
+
 - **ML Ready**: Endpoints simulando predições e extração de features
 - **Escalável**: Estrutura modular, fácil de manter e expandir
 - **Monitoramento**: Dashboard de monitoramento disponível em [https://tech-challenge-001.streamlit.app/](https://tech-challenge-001.streamlit.app/)
