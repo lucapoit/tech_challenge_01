@@ -124,9 +124,8 @@ GET /api/v1/books/search?title=python
 
 ## 🖥️ Deploy Público
 
-A aplicação está disponível em produção neste link:
-
-👉 [https://tc-01-c70fbb49e587.herokuapp.com/docs#/](https://tc-01-c70fbb49e587.herokuapp.com/docs#/) 
+O deploy em produção foi feito mas posteriormente removido para evitar gastos.
+O uso em produção foi exemplificado no vídeo demonstrativo.
 
 ---
 
@@ -138,6 +137,9 @@ A aplicação está disponível em produção neste link:
 - **ML Ready**: Endpoints simulando predições e extração de features
 - **Escalável**: Estrutura modular, fácil de manter e expandir
 - **Monitoramento**: Dashboard de monitoramento disponível em [https://tech-challenge-001.streamlit.app/](https://tech-challenge-001.streamlit.app/)
+
+<img width="1920" height="1080" alt="architecture" src="https://github.com/user-attachments/assets/71a5d0df-546b-461e-bf6e-13847ab94304" />
+
 
 ---
 
