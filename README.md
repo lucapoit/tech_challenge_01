@@ -145,7 +145,7 @@ O uso em produção foi exemplificado no vídeo demonstrativo.
 
 ## 📹 Apresentação
 
-Vídeo explicativo com execução de chamadas reais e explicação da arquitetura disponível [aqui](#).
+Vídeo explicativo com execução de chamadas reais e walkthrough [aqui](#).
 
 ---
 
